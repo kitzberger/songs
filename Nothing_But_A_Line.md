@@ -7,6 +7,7 @@ Capo V
 
 * Nur Rhythmus-Gitarre (ausklingen lassen) und Gesang
 
+
 	F C
 	when you think
 	F C
@@ -33,6 +34,7 @@ Capo V
 
 * Rhythmus-Gitarre (1x mit ausklingen lassen, 1x voll gespielt)
 * Bass und Drumbeat ab 2.
+
 
 	F C
 	when you think
