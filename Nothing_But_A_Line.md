@@ -7,15 +7,16 @@ Capo V
 
 * Nur Rhythmus-Gitarre (ausklingen lassen) und Gesang
 
-
-	F C
-	when you think
-	F C
-	this cannot happen to me
-	Am Em
-	that's when they grab you
-	G
-	by the balls
+```
+F C
+when you think
+F C
+this cannot happen to me
+Am Em
+that's when they grab you
+G
+by the balls
+```
 
 *Vers 1*
 
