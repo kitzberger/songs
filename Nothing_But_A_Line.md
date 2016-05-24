@@ -4,7 +4,7 @@ Nothing but a line (19.05.2016)
 Capo V
 
 *Intro*
-Nur Rhythmus-Gitarre (ausklingen lassen) und Gesang
+* Nur Rhythmus-Gitarre (ausklingen lassen) und Gesang
 
 	F C
 	when you think
@@ -29,8 +29,8 @@ Nur Rhythmus-Gitarre (ausklingen lassen) und Gesang
 	so take a few steps back and look around
 
 *Refrain* (2x)
-Rhythmus-Gitarre (1x mit ausklingen lassen, 1x voll gespielt)
-Bass und Drumbeat ab 2.
+* Rhythmus-Gitarre (1x mit ausklingen lassen, 1x voll gespielt)
+* Bass und Drumbeat ab 2.
 
 	F C
 	when you think
@@ -67,7 +67,7 @@ Bass und Drumbeat ab 2.
 	to beat the living shit out of you
 
 *Refrain* (1x)
-Stops!
+* Stops!
 
 	F C
 	when you think
@@ -90,9 +90,9 @@ Stops!
 	you always gonna end up left behind
 
 *Refrain* (4x)
-Laut weiterspielen!
-3x Normal
-1x A Cappella (mit ¼ Bassdrum)
+* Laut weiterspielen!
+* 3x Normal
+* 1x A Cappella (mit ¼ Bassdrum)
 
 	F C
 	when you think
@@ -106,14 +106,15 @@ Laut weiterspielen!
 *Solo* (2x Refrain)
 
 *Refrain* (2x)
-Free style
+* Free style
 
 *Outro* (2x Refrain)
-Instrumental
-Schluss auf letzten Akkord mit Rattatatata (nicht ausklingen lassen!)
+* Instrumental
+* Schluss auf letzten Akkord mit Rattatatata (nicht ausklingen lassen!)
 
 ----
 
 Weitere Ideen:
+
 * 2. Gitarre spielt ohne Capo, um volleren Sound zu erreichen
 * Auftakt-Breaks im Instrumental
