@@ -4,6 +4,7 @@ Nothing but a line (19.05.2016)
 Capo V
 
 *Intro*
+
 * Nur Rhythmus-Gitarre (ausklingen lassen) und Gesang
 
 	F C
@@ -29,6 +30,7 @@ Capo V
 	so take a few steps back and look around
 
 *Refrain* (2x)
+
 * Rhythmus-Gitarre (1x mit ausklingen lassen, 1x voll gespielt)
 * Bass und Drumbeat ab 2.
 
@@ -67,6 +69,7 @@ Capo V
 	to beat the living shit out of you
 
 *Refrain* (1x)
+
 * Stops!
 
 	F C
@@ -90,6 +93,7 @@ Capo V
 	you always gonna end up left behind
 
 *Refrain* (4x)
+
 * Laut weiterspielen!
 * 3x Normal
 * 1x A Cappella (mit ¼ Bassdrum)
@@ -106,9 +110,11 @@ Capo V
 *Solo* (2x Refrain)
 
 *Refrain* (2x)
+
 * Free style
 
 *Outro* (2x Refrain)
+
 * Instrumental
 * Schluss auf letzten Akkord mit Rattatatata (nicht ausklingen lassen!)
 
