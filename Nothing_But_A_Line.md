@@ -116,5 +116,5 @@ Capo V
 
 Weitere Ideen:
 
-* 2. Gitarre spielt ohne Capo, um volleren Sound zu erreichen
+* 2\. Gitarre spielt ohne Capo, um volleren Sound zu erreichen
 * Auftakt-Breaks im Instrumental
