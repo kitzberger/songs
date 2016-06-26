@@ -36,6 +36,8 @@ Capo IV
 
 * Kein Wechselbass am Schluss, sondern gerade auf Akkord spielen, um in Refrain zu gehen
 
+<b></b>
+
 	a young man with a slight accent introduced himself as rick
 	and that he's a member of the royal family
 
