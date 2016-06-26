@@ -3,125 +3,109 @@ Mailing list (19.05.2016)
 
 Capo IV
 
-*Intro*
+### Intro
 
-```
-C
-Nur eine Gitarre, mit Wechselbass
+	C
+	Nur eine Gitarre, mit Wechselbass
 
-C
-Alle, mit Wechselbass
+	C
+	Alle, mit Wechselbass
 
-C E7 A7 D7 G G7 C
-```
+	C E7 A7 D7 G G7 C
 
-*Vers 1*
 
-```
-C E7 A7 D7 G G7 C
-the other day i got a mail from outer space
-i didnt know any better so i clicked on it
+### Vers 1
 
-C E7 A7 D7 G G7 C
-as it turned out it was from a very distant planet called zack
-that apparently was doomed to explode
-```
+	C E7 A7 D7 G G7 C
+	the other day i got a mail from outer space
+	i didnt know any better so i clicked on it
 
-*Intermezzo*
+	C E7 A7 D7 G G7 C
+	as it turned out it was from a very distant planet called zack
+	that apparently was doomed to explode
 
-```
-E7                        A7
-   oh shit i bursted out load
-        D7       G        C
-what a horrible way to go out
-```
 
-*Vers 2*
+### Intermezzo
+
+	E7                        A7
+	   oh shit i bursted out load
+		D7       G        C
+	what a horrible way to go out
+
+### Vers 2
 
 * Kein Wechselbass am Schluss, sondern gerade auf Akkord spielen, um in Refrain zu gehen
 
-```
-a young man with a slight accent introduced himself as rick
-and that he's a member of the royal family
+	a young man with a slight accent introduced himself as rick
+	and that he's a member of the royal family
 
-he seemed well educated and yet desperate for a way
-of getting all his money out of there
-```
+	he seemed well educated and yet desperate for a way
+	of getting all his money out of there
 
-*Refrain*
+
+### Refrain
 
 * Idee: nicht langsamer werden
 
-```
-F C G
-i'm on a mailing list from space
-F C G
-i'm on a mailing list from spa-a-ace
-F C G
-i'm on a mailing list from space
-F E7 D7 G
-i'm on a mailing list from space
-```
+<!-- Einrückung nach Liste -->
 
-*Vers 3*
+	F C G
+	i'm on a mailing list from space
+	F C G
+	i'm on a mailing list from spa-a-ace
+	F C G
+	i'm on a mailing list from space
+	F E7 D7 G
+	i'm on a mailing list from space
 
-```
-attached to his letter i found pictures of himself,
-his wife, his children and his pile of cash
+### Vers 3
 
-in case i'm interested in helping this poor, poor family
-i oughta write him back a.s.a.p
-```
+	attached to his letter i found pictures of himself,
+	his wife, his children and his pile of cash
 
-*Intermezzo*
+	in case i'm interested in helping this poor, poor family
+	i oughta write him back a.s.a.p
 
-```
-oh shit i thought this might match
-this sounds great but where is the catch?
-```
+### Intermezzo
 
-*Vers 4*
+	oh shit i thought this might match
+	this sounds great but where is the catch?
 
-```
-coz sending money through the vortex of time and space
-is not as easy as you might have thought
+### Vers 4
 
-well there's a fee for interstellar transactions to pay
-and then some good old fashioned bribery
-```
+	coz sending money through the vortex of time and space
+	is not as easy as you might have thought
 
-*Drum Break*
+	well there's a fee for interstellar transactions to pay
+	and then some good old fashioned bribery
 
-*Solo*
+### Drum Break
 
-*Refrain*
+### Solo
 
-```
-i've got a friend from out of space
-i've got a friend from out of spa-a-ace
-i've got a friend from out of space
-i just got scammed from outta space
-```
+### Refrain
 
-*Vers 5*
+	i've got a friend from out of space
+	i've got a friend from out of spa-a-ace
+	i've got a friend from out of space
+	i just got scammed from outta space
+
+### Vers 5
 
 * Ab hier 3/4 Takt
 * Ohne Gesang
 
-*Vers 6*
+### Vers 6
 
-```
-but just the other day after almost losing faith
-in ET's honesty i've been proven right
-we were playing at a bar just outside of this town
-when afterwards it's been raining shooting stars
-```
+	but just the other day after almost losing faith
+	in ET's honesty i've been proven right
+	we were playing at a bar just outside of this town
+	when afterwards it's been raining shooting stars
 
-*Outro*
+### Outro (Intermezzo)
 
-```
-E7                           A7
-   well guys that's gotta be it
-               D7       G         C     (G C)
-that's planet zack and pieces of rick
-```
+	E7                           A7
+	   well guys that's gotta be it
+		       D7       G         C     (G C)
+	that's planet zack and pieces of rick
+
