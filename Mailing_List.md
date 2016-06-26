@@ -34,9 +34,11 @@ Capo IV
 
 ### Vers 2
 
+---
+
 * Kein Wechselbass am Schluss, sondern gerade auf Akkord spielen, um in Refrain zu gehen
 
-<b></b>
+---
 
 	a young man with a slight accent introduced himself as rick
 	and that he's a member of the royal family
@@ -47,9 +49,11 @@ Capo IV
 
 ### Refrain
 
+---
+
 * Idee: nicht langsamer werden
 
-<!-- Einrückung nach Liste -->
+---
 
 	F C G
 	i'm on a mailing list from space
