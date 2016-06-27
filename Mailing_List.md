@@ -1,4 +1,4 @@
-Mailing list (19.05.2016)
+Mailing list (25.06.2016)
 =========================
 
 Capo IV
@@ -47,7 +47,7 @@ Capo IV
 
 ### Refrain
 
-* Idee: nicht langsamer werden
+* Am Ende langsamer werdend und ausklingen lassen
 
 ---
 
@@ -62,6 +62,10 @@ Capo IV
 
 ### Vers 3
 
+* Davor: Instrumental-Vers mit Synkope auf A
+
+---
+
 	attached to his letter i found pictures of himself,
 	his wife, his children and his pile of cash
 
@@ -70,8 +74,21 @@ Capo IV
 
 ### Intermezzo
 
+* Ab zweiter Hälfte ausklingen lassen
+
+---
+
 	oh shit i thought this might match
 	this sounds great but where is the catch?
+
+### Drum Break
+
+* 2x Vers
+
+### Solo
+
+* 2x Vers
+* 1x Intermezzo (am Ende Abstoppen!)
 
 ### Vers 4
 
@@ -80,10 +97,6 @@ Capo IV
 
 	well there's a fee for interstellar transactions to pay
 	and then some good old fashioned bribery
-
-### Drum Break
-
-### Solo
 
 ### Refrain
 
@@ -94,7 +107,7 @@ Capo IV
 
 ### Vers 5
 
-* Ab hier 3/4 Takt
+* Ab hier 3/4 Takt, eingeleitet mit hohem Lauf
 * Ohne Gesang
 
 ### Vers 6

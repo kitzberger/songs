@@ -1,4 +1,4 @@
-Nothing but a line (19.05.2016)
+Nothing but a line (25.06.2016)
 ===============================
 
 Capo V
@@ -101,7 +101,7 @@ Capo V
 ### Refrain (4x)
 
 * Laut weiterspielen!
-* 3x Normal
+* 2x Normal
 * 1x A Cappella (mit ¼ Bassdrum)
 
 ---
@@ -115,7 +115,7 @@ Capo V
 	G
 	by the balls
 
-### Solo (2x Refrain)
+### Solo (Bridge 2)
 
 ### Refrain (2x)
 
