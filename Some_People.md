@@ -83,5 +83,6 @@ Capo V
 ---
 
 Weitere Ideen:
+
 * Refrain mit anderen Akkordeon, ggf. Vers davor mit anderem Schluss?
 * Einstieg Band zum 1. Intermezzo
