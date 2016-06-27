@@ -29,7 +29,7 @@ Capo IV
 
 	E7                        A7
 	   oh shit i bursted out load
-		D7       G        C
+	        D7       G        C
 	what a horrible way to go out
 
 ### Vers 2
