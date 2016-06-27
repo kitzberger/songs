@@ -34,8 +34,6 @@ Capo IV
 
 ### Vers 2
 
----
-
 * Kein Wechselbass am Schluss, sondern gerade auf Akkord spielen, um in Refrain zu gehen
 
 ---
@@ -48,8 +46,6 @@ Capo IV
 
 
 ### Refrain
-
----
 
 * Idee: nicht langsamer werden
 
