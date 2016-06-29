@@ -1,4 +1,4 @@
-Nothing but a line (25.06.2016)
+Nothing but a line (28.06.2016)
 ===============================
 
 Capo V
@@ -98,11 +98,13 @@ Capo V
 	F C G
 	you always gonna end up left behind
 
-### Refrain (4x)
+### Refrain (5x)
 
 * Laut weiterspielen!
 * 2x Normal
 * 1x A Cappella (mit ¼ Bassdrum)
+* 1x leise instrumentiert, gesungen aber normal ("Piano")
+* 1x etwas lauter instrumentiert, gesungen weiterhin normal ("Mezzo-Mix")
 
 ---
 
@@ -117,9 +119,17 @@ Capo V
 
 ### Solo (Bridge 2)
 
-### Refrain (2x)
+	C G F C
+	F C G
+	C G F C
+	F C G
 
-* Free style
+### Refrain (5x)
+
+* 1x auf abgestoppte 1, auf 3 wieder normal
+* 1x Normal
+* 2x zweistimmig
+* 1x oder 2x dreistimmig ("Free style")
 
 ### Outro (2x Refrain)
 
