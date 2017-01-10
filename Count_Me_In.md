@@ -8,6 +8,8 @@ Capo IV
 * 2x Kitze allein (ausklingen lassen am Ende)
 * 4x alle (letztes mal mit Turn-Around)
 
+----
+
 	Am C C C
 	Am C G Em7
 
