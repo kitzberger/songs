@@ -17,6 +17,8 @@ Capo IV
 
 * Ausklingen lassen am Ende
 
+---
+
 	C  C  G  G
 	so you're feeling down and lay in bed all day
 	G  G  G  Am
@@ -30,11 +32,15 @@ Capo IV
 
 * 4x alle
 
+----
+
 	Am C C C
 
 ### Vers 2
 
 * Ausklingen lassen am Ende
+
+----
 
 	let's watch your favorite show - with that actress you adore
 	her somewhat british accent makes you just love her more
@@ -46,6 +52,8 @@ Capo IV
 * Einzählen mit High Hats
 * Akkorde/Anschläge ausklingen lassen
 
+----
+
 	      F     C G       Am    G       C
 	just count me in - i won't let you down
 	      F     C G       Am    G       C
@@ -56,11 +64,15 @@ Capo IV
 * Einzählen mit Snare auf 4
 * 4x alle
 
+----
+
 	Am C C C
 
 ### Vers 3
 
 * Ausklingen lassen am Ende
+
+----
 
 	if one would eat rabbit only, so you often blabber
 	one died pretty fast due to lack of nutrient matter
@@ -94,6 +106,8 @@ Capo IV
 
 * 7x alle
 * 1x alle langsamer werdend
+
+----
 
 	Am C C C
 	Am G C
