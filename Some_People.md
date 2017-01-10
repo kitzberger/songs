@@ -1,7 +1,12 @@
-Some people (25.06.2016)
+Some people (08.01.2017)
 ========================
 
 Capo V
+85/112 bpm
+
+### Intro
+
+* Gezupfte Gitarre
 
 ### Vers 1
 
@@ -49,7 +54,7 @@ Capo V
 
 	F                     C
 	is it true that we're only around
-		  G                           C
+	          G                           C
 	for the chance of getting physical tonite
 	F                     C
 	is it true that we're only around
@@ -58,7 +63,7 @@ Capo V
 
 ### Intermezzo (2x Variante 1)
 
-* Zun√§chst leise, dann wieder aufbauend
+* Zun‰chst leise, dann wieder aufbauend
 * Mit Gezupfe
 
 ### Vers 3
@@ -72,7 +77,7 @@ Capo V
 
 ### Vers 4
 
-	estefania is a girl that is fluent in klingon
+	and estefania is a girl that is fluent in klingon
 	peter never saw the sense in learning even french
 	still they get along, though hardly anybody knows that
 	well maybe for one reason, she's held captive on his ranch
@@ -84,24 +89,8 @@ Capo V
 
 ### Refrain
 
-	F                     C
-	is it true that we're only around
-		  G                           C
-	for the chance of getting physical tonite
-	F                     C
-	is it true that we're only around
-	 G                           Am              G
-	just to get in each other's pants? With our hands?
-
 ### Outro (Intermezzo)
 
 * 16tel auf Aaah-Teil
 * 16tel-Teil
 * Schluss
-
----
-
-Weitere Ideen:
-
-* Refrain mit anderen Akkordeon, ggf. Vers davor mit anderem Schluss?
-* Einstieg Band zum 1. Intermezzo
