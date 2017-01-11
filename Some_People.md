@@ -63,7 +63,7 @@ Capo V
 
 ### Intermezzo (2x Variante 1)
 
-* Zunächst leise, dann wieder aufbauend
+* Zunaechst leise, dann wieder aufbauend
 * Mit Gezupfe
 
 ### Vers 3
