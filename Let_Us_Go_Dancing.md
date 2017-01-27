@@ -1,5 +1,5 @@
-Baby, let us go dancing
-=======================
+Let us go dancing
+=================
 
 Capo 3
 
