@@ -1,7 +1,7 @@
-Let us go dancing
-=================
+Let us go dancing (21.04.2017)
+==============================
 
-Capo 3
+Capo 4
 
 ### Vers 1
 
@@ -29,5 +29,26 @@ Capo 3
 	Oh, i took a shower today
 	A7 D7
 	If you're still not getting I'm onto something
-	A7|G7 D(7) G
+	A7 D7 G
 	maybe you never will
+
+### Vers 3
+
+	No, I haven't done any dishes
+	I don't even think it's my turn
+	The fuck should I know without notice
+	That I'm now your bloody intern
+
+### Vers 4
+
+	You might have forgotten to feed them
+	Well yes, that's an issue for me
+	The dreams that I thought htat were ours
+	Don't reflext anymore how I feel
+
+### Refrain
+
+	Oh baby, I've got reservations
+	And I think/fear you've got them too
+	Goddamnit let's try a little harder
+	...
