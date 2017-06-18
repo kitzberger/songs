@@ -43,7 +43,7 @@ Capo 4
 
 	You might have forgotten to feed them
 	Well yes, that's an issue for me
-	The dreams that I thought htat were ours
+	The dreams that I thought that were ours
 	Don't reflext anymore how I feel
 
 ### Refrain
