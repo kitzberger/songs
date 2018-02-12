@@ -2,7 +2,7 @@
 
 ## Watch The Basil Die
 
-EP, 2017
+Listen to the [EP](http://www.differentpaul.de/musik) (2017) now!
 
 * [Bar Fights](Bar%20Fights.md)
 * [Book Of Rules](Book%20Of%20Rules.md)
