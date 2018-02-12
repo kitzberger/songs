@@ -14,9 +14,9 @@ Listen to the [EP](http://www.differentpaul.de/musik) (2017) now!
 
 * [Count Me In](Count%20Me%20In.md)
 * [Bar Fights](Bar%20Fights.md)
-* Blame Us
+* [Blame Us](Blame%20Us.md)
 * [Nothing But A Line](Nothing%20But%20A%20Line.md)
-* Who knows
+* [Who Knows](Who%20Knows.md)
 
 ## WIP
 * [Little Did I Know](Little%20Did%20I%20Know.md)
