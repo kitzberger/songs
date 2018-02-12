@@ -1,18 +1,8 @@
-Some people (08.01.2017)
-========================
+# Some People
 
 Capo V
-85/112 bpm
 
-### Intro
-
-* Gezupfte Gitarre
-
-### Vers 1
-
-* Nur Rhythmus-Gitarre und 2x Gesang
-
----
+### Verse 1
 
 	 C                      F          C
 	Tommy is a guy that is curious in details
@@ -24,33 +14,24 @@ Capo V
 	well maybe for one reason, tommy's paying for the drinks
 
 
-### Intermezzo (Variante 1)
+### Intermezzo (Variant 1)
 
 	Am F C G
 	Am F C G
 
-### Vers 2
-
-* Einstieg Band
-* Achtung: Drums spielen gerade, ohne vorgezogene "2"
-
----
+### Verse 2
 
 	christopher is blind and therefore sweet to the bone
 	kate's a classic bitch that talks behind other's backs
 	still they get along, now they're married for a decade
 	well maybe for one reason, check out kate's enormous rack
 
-### Intermezzo (Variante 2)
-
-* Letzten Akkord ausklingen lassen
-
----
+### Intermezzo (Variant 2)
 
 	Am F C G
 	Am F G C
 
-### Refrain
+### Chorus
 
 	F                     C
 	is it true that we're only around
@@ -61,36 +42,29 @@ Capo V
 	 G                           Am              G
 	just to get in each other's pants? With our hands?
 
-### Intermezzo (2x Variante 1)
+### Intermezzo (Variant 1)
 
-* Zunaechst leise, dann wieder aufbauend
-* Mit Gezupfe
-
-### Vers 3
+### Verse 3
 
 	paula just told kenny that she's five weeks overdue today,
 	and kenny keeps on wondering what jesus christ would do
 	still they get along, coz jesus christ is not an expert
 	in those sort of questions, turns out she's got the flue
 
-### Intermezzo (Variante 1)
+### Intermezzo (Variant 1)
 
-### Vers 4
+### Verse 4
 
 	and estefania is a girl that is fluent in klingon
 	peter never saw the sense in learning even french
 	still they get along, though hardly anybody knows that
 	well maybe for one reason, she's held captive on his ranch
 
-### Intermezzo (Variante 2)
+### Intermezzo (Variant 2)
 
 	Am F C G
 	Am F G C
 
-### Refrain
+### Chorus
 
 ### Outro (Intermezzo)
-
-* 16tel auf Aaah-Teil
-* 16tel-Teil
-* Schluss

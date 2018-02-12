@@ -1,20 +1,13 @@
-Mailing list (25.06.2016)
-=========================
+# Mailing List
 
 Capo IV
 
 ### Intro
 
-	C
-	Nur eine Gitarre, mit Wechselbass
-
-	C
-	Alle, mit Wechselbass
-
 	C E7 A7 D7 G G7 C
 
 
-### Vers 1
+### Verse 1
 
 	C E7 A7 D7 G G7 C
 	the other day i got a mail from outer space
@@ -24,7 +17,6 @@ Capo IV
 	as it turned out it was from a very distant planet called zack
 	that apparently was doomed to explode
 
-
 ### Intermezzo
 
 	E7                        A7
@@ -32,11 +24,7 @@ Capo IV
 	        D7       G        C
 	what a horrible way to go out
 
-### Vers 2
-
-* Kein Wechselbass am Schluss, sondern gerade auf Akkord spielen, um in Refrain zu gehen
-
----
+### Verse 2
 
 	a young man with a slight accent introduced himself as rick
 	and that he's a member of the royal family
@@ -45,11 +33,7 @@ Capo IV
 	of getting all his money out of there
 
 
-### Refrain
-
-* Am Ende langsamer werdend und ausklingen lassen
-
----
+### Chorus
 
 	F C G
 	i'm on a mailing list from space
@@ -60,11 +44,7 @@ Capo IV
 	F E7 D7 G
 	i'm on a mailing list from space
 
-### Vers 3
-
-* Davor: Instrumental-Vers mit Synkope auf A
-
----
+### Verse 3
 
 	attached to his letter i found pictures of himself,
 	his wife, his children and his pile of cash
@@ -74,23 +54,17 @@ Capo IV
 
 ### Intermezzo
 
-* Ab zweiter Hälfte ausklingen lassen
-
----
-
 	oh shit i thought this might match
 	this sounds great but where is the catch?
 
 ### Drum Break
 
-* 2x Vers
-
 ### Solo
 
-* 2x Vers
-* 1x Intermezzo (am Ende Abstoppen!)
+* 2x Verse
+* 1x Intermezzo
 
-### Vers 4
+### Verse 4
 
 	coz sending money through the vortex of time and space
 	is not as easy as you might have thought
@@ -98,19 +72,18 @@ Capo IV
 	well there's a fee for interstellar transactions to pay
 	and then some good old fashioned bribery
 
-### Refrain
+### Chorus
 
 	i've got a friend from out of space
 	i've got a friend from out of spa-a-ace
 	i've got a friend from out of space
 	i just got scammed from outta space
 
-### Vers 5
+### Verse 5
 
-* Ab hier 3/4 Takt, eingeleitet mit hohem Lauf
-* Ohne Gesang
+* 3/4 beat
 
-### Vers 6
+### Verse 6
 
 	but just the other day after almost losing faith
 	in ET's honesty i've been proven right
@@ -123,4 +96,3 @@ Capo IV
 	   well guys that's gotta be it
 		       D7       G         C     (G C)
 	that's planet zack and pieces of rick
-

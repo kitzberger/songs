@@ -1,5 +1,4 @@
-Clear the line
-==============
+# Clear The Line
 
 Capo 0
 
@@ -78,7 +77,7 @@ Capo II-IV
 	you don't seem too frustrated
 	D5 D6
 	'bout it going down
-	G5 G5
+	G5 G6
 	you don't seem too frustrated
 	A7
 	but i do-o

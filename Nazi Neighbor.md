@@ -1,9 +1,8 @@
-Nazi neighbor (21.04.2017)
-==========================
+# Nazi Neighbor
 
 Capo 3
 
-### Refrain
+### Chorus
 
 	D7sus4
 	                C               F
@@ -15,7 +14,7 @@ Capo 3
 	     F           C           G
 	the door in his face - au revoir?
 
-### Vers
+### Verse
 
 	         Am                        F           Em7                 G
 	let's assume he wants to put up a solar panel right on top of his roof
@@ -26,7 +25,7 @@ Capo 3
 	           F                        G                       C          (G)
 	but is it really worth saving the planet? feels now kinda gross.
 
-### Refrain
+### Chorus
 
 	                C                  F
 	how would you choose if your nazi neighbor
@@ -37,7 +36,7 @@ Capo 3
 	        F                 C         G
 	man or would you think "what a cliché?"
 
-### Vers
+### Verse
 
 	well, i guess it's kind of rough being a racist all day, especially if you are into men
 	having to be tough, strong and hateful when all you think about is only big ben
@@ -53,7 +52,7 @@ Capo 3
 	     Em7                        G
 	not for the literal meaning instead?
 
-### Refrain
+### Chorus
 
 	C F
 	what would you do if your nazi neighbor
@@ -64,14 +63,14 @@ Capo 3
 	F C G
 	a club just to bully such kids?
 
-### Vers
+### Verse
 
 	well, let's assume he named his kid mussolini but it shows great talent in arts
 	don't you think embrassing that innocent kid might prevent it from blackening his heart?
 	so would you invite them over for play dates and make sure that all the other kids will come too
 	you could then host a teeny-tiny bar mizwa even though you're not a jew
 
-### Refrain (outro)
+### Outro (Chorus)
 
 	C F
 	what would you do if your nazi neighbor

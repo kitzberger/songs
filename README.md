@@ -1,8 +1,24 @@
-Different Paul
-==============
+# Different Paul
 
-* [Count me in](Count_Me_In.md)
-* [Mailing list](Mailing_List.md)
-* [Nothing but a line](Nothing_But_A_Line.md)
-* [Some people](Some_People.md)
-* [That's not my fault](Thats_Not_My_Fault.md)
+## Watch The Basil Die
+
+EP, 2017
+
+* [Bar fights](Bar Fights.md)
+* [Book of rules](Book Of Rules.md)
+* [Mailing list](Mailing List.md)
+* [Some people](Some People.md)
+* [Watch the basil die](Watch The Basil Die.md)
+
+## Other songs
+
+* [Count me in](Count Me In.md)
+* [Bar fights](Bar Fights.md)
+* Blame us
+* [Nothing but a line](Nothing But A Line.md)
+* Who knows
+
+## WIP
+* [Little Did I Know](Little Did I Know.md)
+* [Nazi neighbor](Nazi Neighbor.md)
+* [The solution](The Solution.md)

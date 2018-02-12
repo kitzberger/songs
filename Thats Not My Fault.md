@@ -1,15 +1,10 @@
-That's not my fault (12.07.2016)
-================================
-
-* 180 bpm
-* Schlagzeug zählt ein
+# That's Not My Fault
 
 ### Intro
 
 	D
-	D
 
-### Vers
+### Verse
 
 	D
 	Once i played a song, i played a song for a girl
@@ -18,7 +13,7 @@ That's not my fault (12.07.2016)
 	         A                                   D
 	yeah i wrote some lyrics and sang it to the world
 
-### Vers
+### Verse
 
 	Well i grabbed my guitar, and a pint of barley malt
 	and she said I don't like it, but baby that's not my fault
@@ -26,7 +21,7 @@ That's not my fault (12.07.2016)
 
 ### Solo
 
-### Vers
+### Verse
 
 	So now I got the blues, I got the blues tonight
 	some girls are just as cold as ice
@@ -34,7 +29,7 @@ That's not my fault (12.07.2016)
 
 ### Solo
 
-### Vers
+### Verse
 
 	well, I need some lovin' honey, need some sweets
 	or I'll turn mad out in the streets
@@ -43,15 +38,9 @@ That's not my fault (12.07.2016)
 
 ### Intermezzo
 
-* Tonart-Wechsel auf E
-
-----
-
-	F F# G
-	E
 	E
 
-### Vers
+### Verse
 
 	    E
 	I still do play this song, now for a different girl

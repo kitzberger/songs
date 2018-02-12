@@ -1,13 +1,8 @@
-Nothing but a line (28.06.2016)
-===============================
+# Nothing but a line
 
 Capo V
 
 ### Intro
-
-* Nur Rhythmus-Gitarre (ausklingen lassen) und Gesang
-
----
 
 	F C
 	when you think
@@ -18,7 +13,7 @@ Capo V
 	G
 	by the balls
 
-### Vers 1
+### Verse 1
 
 	C F
 	well they call this an excuse
@@ -31,12 +26,7 @@ Capo V
 	when they almost broke your spine
 	so take a few steps back and look around
 
-### Refrain (2x)
-
-* Rhythmus-Gitarre (1x mit ausklingen lassen, 1x voll gespielt)
-* Bass und Drumbeat ab 2.
-
----
+### Chorus (2x)
 
 	F C
 	when you think
@@ -47,7 +37,7 @@ Capo V
 	G
 	by the balls
 
-### Vers 2
+### Verse 2
 
 	well they make you think it's you
 	who came up with the plan
@@ -72,11 +62,7 @@ Capo V
 	i won't go into details - but sometimes i just wish
 	to beat the living shit out of you
 
-### Refrain (1x)
-
-* Stops!
-
----
+### Chorus (1x)
 
 	F C
 	when you think
@@ -98,15 +84,7 @@ Capo V
 	F C G
 	you always gonna end up left behind
 
-### Refrain (5x)
-
-* Laut weiterspielen!
-* 2x Normal
-* 1x A Cappella (mit ¼ Bassdrum)
-* 1x leise instrumentiert, gesungen aber normal ("Piano")
-* 1x etwas lauter instrumentiert, gesungen weiterhin normal ("Mezzo-Mix")
-
----
+### Refrain (2x)
 
 	F C
 	when you think
@@ -117,28 +95,8 @@ Capo V
 	G
 	by the balls
 
-### Solo (Bridge 2)
+### Bridge 2
 
-	C G F C
-	F C G
-	C G F C
-	F C G
-
-### Refrain (5x)
-
-* 1x auf abgestoppte 1, auf 3 wieder normal
-* 1x Normal
-* 2x zweistimmig
-* 1x oder 2x dreistimmig ("Free style")
+### Refrain (4x)
 
 ### Outro (2x Refrain)
-
-* Instrumental
-* Schluss auf letzten Akkord mit Rattatatata (nicht ausklingen lassen!)
-
-----
-
-Weitere Ideen:
-
-* 2\. Gitarre spielt ohne Capo, um volleren Sound zu erreichen
-* Auftakt-Breaks im Instrumental

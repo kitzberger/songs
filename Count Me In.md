@@ -1,23 +1,13 @@
-Count me in (08.01.2017)
-========================
+# Count Me In
 
 Capo IV
 
 ### Intro
 
-* 2x Kitze allein (ausklingen lassen am Ende)
-* 4x alle (letztes mal mit Turn-Around)
-
-----
-
 	Am C C C
 	Am C G Em7
 
-### Vers 1
-
-* Ausklingen lassen am Ende
-
----
+### Verse 1
 
 	C  C  G  G
 	so you're feeling down and lay in bed all day
@@ -30,29 +20,16 @@ Capo IV
 
 ### Intermezzo
 
-* 4x alle
-
-----
-
 	Am C C C
 
-### Vers 2
-
-* Ausklingen lassen am Ende
-
-----
+### Verse 2
 
 	let's watch your favorite show - with that actress you adore
 	her somewhat british accent makes you just love her more
 	i point out she's faking - you call me a dick
 	i kinda hate it when you're being sick
 
-### Refrain
-
-* Einzählen mit High Hats
-* Akkorde/Anschläge ausklingen lassen
-
-----
+### Chorus
 
 	      F     C G       Am    G       C
 	just count me in - i won't let you down
@@ -61,53 +38,38 @@ Capo IV
 
 ### Intermezzo
 
-* Einzählen mit Snare auf 4
-* 4x alle
-
-----
-
 	Am C C C
 
-### Vers 3
-
-* Ausklingen lassen am Ende
-
-----
+### Verse 3
 
 	if one would eat rabbit only, so you often blabber
 	one died pretty fast due to lack of nutrient matter
 	i googled your statement - which started a fight
 	you despise me when i'm being right
 
-### Vers 4
+### Verse 4
 
 	so it was earth all along - well, thanks for telling me
 	there go years of trying to wipe this off of my memory
 	i guess you won't mind then the magic 8 ball
 	jon snow isn't dead after all
 
-### Refrain
-
-* letzte 3 Anschläge ausklingen lassen, Gesang nur noch Kitze
+### Chorus
 
 ### Bridge
 
+	Am C G G
+
+	Am C G G
 	oh when the would finally turns against you
 	and all the people you know
 	won't talk to you and keep crawling instead
+	Am G C
 	i hope you remember then
 
-### Refrain
-
-* Steigerung: 2x Kitze, 2x K+P, 2x alle
-* Doppelt so lang
+### Chorus
 
 ### Outro
-
-* 7x alle
-* 1x alle langsamer werdend
-
-----
 
 	Am C C C
 	Am G C

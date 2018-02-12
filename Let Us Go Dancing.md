@@ -1,9 +1,8 @@
-Let us go dancing (21.04.2017)
-==============================
+# Let Us Go Dancing
 
 Capo 4
 
-### Vers 1
+### Verse 1
 
 	C/G
 	Baby, just let us go dancing
@@ -14,14 +13,14 @@ Capo 4
 	D7 G
 	You burst into laughter, I cry
 
-### Vers 2
+### Verse 2
 
 	No, that doesn't mean I don't love you
 	it's just that I'm feeling this urge
 	to get out and see something different - for once
 	so get dressed and grab your purse
 
-### Refrain
+### Chorus
 
 	H7 C
 	Coz' baby I made reservations
@@ -32,23 +31,23 @@ Capo 4
 	A7 D7 G
 	maybe you never will
 
-### Vers 3
+### Verse 3
 
 	No, I haven't done any dishes
 	I don't even think it's my turn
 	The fuck should I know without notice
 	That I'm now your bloody intern
 
-### Vers 4
+### Verse 4
 
 	You might have forgotten to feed them
 	Well yes, that's an issue for me
 	The dreams that I thought that were ours
 	Don't reflext anymore how I feel
 
-### Refrain
+### Chorus
 
 	Oh baby, I've got reservations
-	And I think/fear you've got them too
+	And I fear you've got them too
 	Goddamnit let's try a little harder
 	...
