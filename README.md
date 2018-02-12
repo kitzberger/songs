@@ -4,21 +4,21 @@
 
 EP, 2017
 
-* [Bar Fights](Bar+Fights.md)
-* [Book Of Rules](Book+Of+Rules.md)
-* [Mailing List](Mailing+List.md)
-* [Some People](Some+People.md)
-* [Watch The Basil Die](Watch+The+Basil+Die.md)
+* [Bar Fights](Bar%20Fights.md)
+* [Book Of Rules](Book%20Of%20Rules.md)
+* [Mailing List](Mailing%20List.md)
+* [Some People](Some%20People.md)
+* [Watch The Basil Die](Watch%20The%20Basil%20Die.md)
 
 ## Other Songs
 
-* [Count Me In](Count+Me+In.md)
-* [Bar Fights](Bar+Fights.md)
+* [Count Me In](Count%20Me%20In.md)
+* [Bar Fights](Bar%20Fights.md)
 * Blame Us
-* [Nothing But A Line](Nothing+But+A+Line.md)
+* [Nothing But A Line](Nothing%20But%20A%20Line.md)
 * Who knows
 
 ## WIP
-* [Little Did I Know](Little+Did+I+Know.md)
-* [Nazi Neighbor](Nazi+Neighbor.md)
-* [The Solution](The+Solution.md)
+* [Little Did I Know](Little%20Did%20I%20Know.md)
+* [Nazi Neighbor](Nazi%20Neighbor.md)
+* [The Solution](The%20Solution.md)
