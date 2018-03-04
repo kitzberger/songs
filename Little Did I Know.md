@@ -38,7 +38,7 @@ Capo 4
 	but when i hear a kitten purr
 	Em D
 	when i see a ball of furr
-	G
+	C C7
 	i'm out
 
 ## Bridge
