@@ -22,7 +22,7 @@ Capo 0
 	       A                                D
 	and i guess she wanted then to cheer me up
 
-	when she sad something like my son, we're so proud of you today
+	when she said something like my son, we're so proud of you today
 	coz you showed everyone who is the bigger man
 	apparently you're a pacifist, just like your dad and me
 	so i bit the bullet putting ice on my knee
@@ -42,7 +42,7 @@ Capo 0
 	guess with lack of kabel that ain't no surprise
 
 	that's why i spend so many evenings at my grandma's place coz she
-	didn't give a damn what's on the telly screen
+	didn't give a damn who's on the telly screen
 	together we watched "die hard" only sometimes granny shows
 	coz she put me in charge of the remote control
 
