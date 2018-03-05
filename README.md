@@ -2,6 +2,8 @@
 
 ## WIP
 
+* [Clear The Line](Clear%20The%20Line.md)
+* [Let Us Go Dancing](Let%20Us%20Go%20Dancing.md)
 * [Little Did I Know](Little%20Did%20I%20Know.md)
 * [Nazi Neighbor](Nazi%20Neighbor.md)
 * [The Solution](The%20Solution.md)
@@ -19,9 +21,13 @@ Listen to the [EP](http://www.differentpaul.de/musik) now!
 ## Other Songs (2013-2017)
 
 * [Count Me In](Count%20Me%20In.md)
-* [Bar Fights](Bar%20Fights.md)
 * [Blame Us](Blame%20Us.md)
 * [Nothing But A Line](Nothing%20But%20A%20Line.md)
 * [Who Knows](Who%20Knows.md)
 
+## Songs beyond EOL (2012-2015)
+
+* [Not Exactly Sober](Not%20Exactly%20Sober.md)
+* [That's Not My Fault](Thats%20Not%20My%20Fault.md)
+* [What We Should Totally Do](What%20We%20Should%20Totally%20Do.md)
 
