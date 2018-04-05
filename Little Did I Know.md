@@ -45,3 +45,22 @@ Capo 4
 	F C G C
 	Coz you're a cat person, anti social cat person
 	A crazy cat person - that's what you are
+
+
+## Bridge 2
+
+	F Am
+	the twoooo of us won't ever be alike
+	the two of us won't happen in a million years
+
+
+## Verse
+
+	according to science - it's just not meant to be
+	you fancy evil and four legged beasts
+
+	they haunt me in my nightmares
+	and just so you know
+
+	i google ducklings
+	well that's how i roll
