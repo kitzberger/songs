@@ -18,7 +18,7 @@
 	G
 	it's a piece of code
 
-## Verse
+## Verse 1
 	C               G                  Am        Em
 	  let's set up a meeting with those guys from IT
 	F                   G           C       C7      F
@@ -28,8 +28,35 @@
 	D7     G
 	  why wait?
 
-## Chorus
+## Pre verse
+	we need to test it first
+	fix all the bugs
+	before we deploy
+	and maybe destroy
+	any hearts out there
 
+## Verse 2
+	that's way too expensive - release a.s.a.p
+	i call the shareholders - oh, they are gonna love us
+	when they hear their investment's paying off
+	we're selling love
+
+## Solo
+
+## Pre verse
+	i'm really sorry, boss
+	i did my best
+	but there seems to be
+	a constant that we
+	simply cannot change
+
+## Verse 3
+	that's utter nonsense - think outside the heartshaped box
+	come on rack you brain - for an advertising campaign
+	to make people believe we'll get them laid
+	and they're gonna pay
+
+## Chorus
 	        C            F        C
 	imagine everyone was able to find
               G                            C
@@ -43,33 +70,6 @@
 	                Dm          Bb           C
 	we've got your soul mate already figured out
 
-## Pre verse
-	we need to test it first
-	fix all the bugs
-	before we deploy
-	and maybe destroy
-	any hearts out there
-
-## Verse
-	that's way too expensive - release a.s.a.p
-	i call the shareholders - oh, they are gonna love us
-	when they hear their investment's paying off
-	we're selling love
-
-## Chorus
-
-## Pre verse
-
-	i'm really sorry, boss
-	i did my best
-	but there seems to be
-	a constant that we
-	simply cannot change
-
-## Vers
-	that's utter nonsense - think outside the heartshaped box
-	come on rack you brain - for an advertising campaign
-	to make people believe we'll get them laid
 
 ----
 
