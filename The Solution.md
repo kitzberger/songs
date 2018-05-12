@@ -43,6 +43,9 @@
 
 ## Solo
 
+	F C G Am
+	F C G G
+
 ## Pre verse
 	i'm really sorry, boss
 	i did my best
