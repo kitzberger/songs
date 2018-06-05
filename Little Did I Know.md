@@ -32,6 +32,11 @@ Capo 4
 
 ## Chorus
 
+	Am G F C
+	And even though it looks like I'm slowly backing out
+	F Am D7 G // F Am G C
+	I honestly don't know what this fuzz is all about
+
 	D7 G F C
 	Please don't expect that we're becoming peers
 	F Am G C
@@ -45,12 +50,14 @@ Capo 4
 	with us finding out who the other really is
 
 	perhaps i'm mistaken
-	and will have to admit
+	i'm open to admit
 
 	but then you upload
 	a bunch of cat pics
 
 ## Bridge
+
+	G
 
 	D G
 	i'm sure you're so much more complex than this

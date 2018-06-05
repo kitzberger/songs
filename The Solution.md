@@ -70,6 +70,11 @@
 	F C G
 	and run through our database at night
 
+	F C G Am
+	this will improve love life like nothing before
+	F C G
+	except for maybe getting drunk and high
+
 	                Dm          Bb           C
 	we've got your soul mate already figured out
 
