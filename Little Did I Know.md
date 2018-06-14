@@ -81,30 +81,11 @@ Capo 4
 
 ## Chorus
 
------
 
-## Bridge 2
+## Outro
 
-	Am G C Em
-	the twoooo of us won't ever be alike
-	F Am G C
-	the two of us won't happen in a million years
-
-
-## Bridge 3
-
-	D7 G F C
-	Please don't expect that we're becoming peers
-	i know we're not supposed to take it as it seems
-	i guess you can try and buy me fancy beers
-	F Am G C
-	the two of us won't happen in a million years
-
-
-----
-
-
-## Bridge
 	F C G C
 	Coz you're a cat person, anti social cat person
-	A crazy cat person - that's what you are
+	Full blast crazy cat person - that's what I'm certain of
+	You're a cat person, most likely stalking me
+	Bat shit crazy cat person - that I know for sure
