@@ -33,14 +33,11 @@ Capo 4
 ## Chorus
 
 	Am G F C
-	And even though it looks like I'm slowly backing out
-	F Am D7 G // F Am G C
-	I honestly don't know what this fuzz is all about
-
-	D7 G F C
-	Please don't expect that we're becoming peers
+	So if it seems as if I was slowly backing out
 	F Am G C
-	the two of us won't happen in a million years
+	well that's just exactly what this song's about
+	Am G F C
+	for i'm convinced your kittens are master pupperteers
 	F Am G C
 	the two of us won't happen in a million years
 
