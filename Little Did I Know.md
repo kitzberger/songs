@@ -40,6 +40,8 @@ Capo 4
 	for i'm convinced your kittens are master pupperteers
 	F Am G C
 	the two of us won't happen in a million years
+	F Am G C
+	the two of us won't happen in a million years
 
 ## Verse
 
