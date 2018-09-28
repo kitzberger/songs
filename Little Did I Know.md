@@ -43,6 +43,9 @@ Capo 4
 	F Am G C
 	the two of us won't happen in a million years
 
+## Solo
+	F C G C
+
 ## Verse
 
 	like any great love story this needs to have a twist
@@ -83,8 +86,7 @@ Capo 4
 
 ## Chorus
 
-
-## Outro
+## Solo/Outro
 
 	F C G C
 	Coz you're a cat person, anti social cat person
