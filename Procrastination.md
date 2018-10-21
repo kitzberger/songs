@@ -1,9 +1,12 @@
 # Procratination
 
+Capo II
+
 ## Chorus
 
-	C Fmaj7 Gsus4 C
-	Fmaj7 Em G
+	C      Fmaj7  Gsus4  C
+	Fmaj7  Em     G      G
+
 	Today I didn’t do much
 	But scroll up and down
 	That's not exactly that
@@ -11,7 +14,8 @@
 
 ## Verse 1
 
-	C Am Dm G 
+	C Am Dm G
+
 	First I got some coffee - which helped me to realize
 	that I forgot the milk - so I went back
 
@@ -24,8 +28,9 @@
 ## Pre-Chorus
 	
 	E4 Dm
-	i'd like to think of myself as a team player 
 	G D4 E4 F
+
+	i'd like to think of myself as a team player
 	but still I walked away when it said run the cleanup now
 	
 ## Chorus
@@ -75,6 +80,8 @@
 	way writing down my times
 	and thinking of a text
 	without lying
+
+----
 
 ## Misc
 
