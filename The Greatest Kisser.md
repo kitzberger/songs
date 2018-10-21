@@ -1,6 +1,6 @@
 # The Greatest Kisser
 
-Capo II-IV
+Capo II
 
 ## Verse
 
@@ -12,15 +12,16 @@ Capo II-IV
 	oh some day i'm gonna lose her - no matter how hard i'll try
 	C G D G
 	coz the whole relationship is build upon a lie
-	the whole relationship merely a lie
+	the whole relationship is build upon a lie
 
 ## Verse (mostly instrumental)
-    ....
+
+	G C A7 D
+	H7 Em D G
+	Am D C D
 	C G D G
 	coz the whole relationship is build upon a lie
-	the whole relationship merely a lie
-
-## Chorus or just D7 (???)
+	the whole relationship is build upon a lie
 
 ## Verse
 
@@ -28,7 +29,7 @@ Capo II-IV
 	(had been) listening mostly, smart replies only when she took a bite
 	and since this first encounter so many days have gone by
 	but the whole relationship is build upon a lie
-	the whole relationship merely a lie
+	the whole relationship is build upon a lie
 
 ## Chorus
 
@@ -44,15 +45,13 @@ Capo II-IV
 	A7
 	and I am all innocent
 
-	C C G G Em D
-
 ## Verse
 
 	after one hell of a dinner - with wine - it had gotten late
 	and i'm not that kind of guy who is kissing on the first date
 	so i walked her home and she misread the facial expressions of mine
 	that's why the whole relationship is build upon a lie
-	the whole relationship merely a lie
+	the whole relationship is build upon a lie
 
 ## Chorus
 
@@ -64,7 +63,8 @@ Capo II-IV
 ## Bridge
 
 	D G
-	C Em Em D (oder ähnliches)
+	C Em Em D
+	C Em Em D
 
 	Am Am D D
 	who would have thought - that suppressing a yawn
@@ -80,10 +80,10 @@ Capo II-IV
 ## Verse
 
 	i met her family - the sweetest of people - and slowly it's getting clear
-	when she's out of the room - her mother's looking quite funny at me
+	as soon as she's out of the room - her mother's looking quite funny at me
 	oh she's the best cook and god knows i get sleepy when i've had a slice of that pie
 	oh boy the whole relationship is build upon a lie
-	the whole relationship merely a lie
+	the whole relationship is build upon a lie
 
 ----
 
