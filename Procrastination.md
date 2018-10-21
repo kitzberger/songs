@@ -37,9 +37,6 @@
 
 	on my way across the floor I passed that cute intern
 	i got confused and asked her for the way
-
-	her name - it's not the one i used and neither my next try
-	it got really awkward when her fellow intern walked by // her ugly friend walked by
 	
 	'please don't let me be like him when i am in my 30ies'
 	it hurt hearing her saying that as I turned away
@@ -88,6 +85,10 @@ Hoping to not walk across boss or superior or colleagues
 Checking if someone is standing behind me
 
 ### Old ideas
+
+
+	her name - it's not the one i used and neither my next try
+	it got really awkward when her fellow intern walked by // her ugly friend walked by
 
 	i always check if someone's standing right behind my desk
 	before going online and browsing through the latest mime's
