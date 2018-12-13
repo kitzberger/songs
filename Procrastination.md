@@ -5,7 +5,7 @@ Capo II
 ## Chorus
 
 	C      Fmaj7  Gsus4  C
-	Fmaj7  Em     G      G
+	Fmaj7  Em     Dm     G
 
 	Today I didn’t do much
 	But scroll up and down
@@ -37,10 +37,10 @@ Capo II
 
 ## Verse 2
 
-	around noon when i was half way through fighting off those mails
-	i noticed all my colleagues were already on lunch break
+	i was only half way through fighting off those mails
+	while my colleagues had already left for their lunch break
 
-	on my way across the floor I passed that cute intern
+	and rushing down the corridor I passed that cute intern
 	i got confused and asked her for the way
 	
 	'please don't let me be like him when i am in my 30ies'
@@ -75,52 +75,11 @@ Capo II
 	But scroll up and down
 	Not exactly that
 	What I am paid for
-	
+
+## Final Chorus
+
 	The most creative task today
 	way writing down my times
 	and thinking of a text
 	without lying
-
-----
-
-## Misc
-
-### New ideas
-
-Being extra quite
-Hoping to not walk across boss or superior or colleagues
-Checking if someone is standing behind me
-
-### Old ideas
-
-
-	her name - it's not the one i used and neither my next try
-	it got really awkward when her fellow intern walked by // her ugly friend walked by
-
-	i always check if someone's standing right behind my desk
-	before going online and browsing through the latest mime's
-
-who would've guessed watching her present that latest numbers
-
-Lets get some coffee (first/now) and then go again for milk
-And see how we might feel about these sheets
-
-First I got some coffee and went a second time for milk
-but still i felt not better 'bout these sheets
-
-We‘re the greatest movement
-If we weren’t so damn lazy
-
-Today I didn’t do much
-I mostly played around
-I don’t feel any guilt
-For I am so bored
-
-Inserted and deleted
-Rows and lines
-
-### Other chords
-
-C F G C		Am Dm G C	C F G C
-Am G C		F  Em G G	F G C G
 

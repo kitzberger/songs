@@ -21,7 +21,7 @@ Capo 4
 
 ## Verse
 
-	about one week later you sent me a request
+	about one week later you sent me a request (request! request!)
 	to annonce in public - our friendship manifest
 
 	while browsing though your profile
@@ -70,7 +70,7 @@ Capo 4
 	but when i hear a kitten purr
 	Em D
 	when i see a ball of furr
-	C C7
+	C
 	i'm out
 
 ## Verse
