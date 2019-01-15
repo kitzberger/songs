@@ -1,5 +1,9 @@
 # Secrets Of Your Life (2018)
 
+## Intro
+
+	Am Dm7 G7 C7 F7 Bb7 E4 E
+
 ## Verse
 
 	Am Dm7 G7 C7
@@ -12,7 +16,7 @@
 
 ## Pre-Chorus
 
-	F Fm C G
+	F D7 G
 	Oh yes i've put my mind on you
 
 	D# F Bb F
@@ -32,6 +36,8 @@
 	i'd never expose them
 	if you tell me more
 
+## Intro
+
 ## Verse
 
 	do you remember that time you called in sick
@@ -47,6 +53,8 @@
 
 ## Chorus
 
+## Intro
+
 ## Verse
 
 	what that you say? you don't like being stalked?
@@ -60,4 +68,4 @@
 	Oh yes, i've put my mind on you
 	so what's it that you're gonna do?
 	
-	
+## Intro

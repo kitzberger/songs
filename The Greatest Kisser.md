@@ -14,19 +14,10 @@ Capo II
 	coz the whole relationship is build upon a lie
 	the whole relationship is build upon a lie
 
-## Interlude (Var I)
+## Interlude
 
 	C G D G
 	C G D D
-
-## Interlude (Var II, mostly instrumental)
-
-	G C A7 D
-	H7 Em D G
-	Am D C D
-	C G D G
-	coz the whole relationship is build upon a lie
-	the whole relationship is build upon a lie
 
 ## Verse
 
@@ -47,7 +38,7 @@ Capo II
 	who could've known
 	G7 G7/F# Em
 	that she would get it all wrong?
-	A7
+	A7 D7
 	and I am all innocent
 
 ## Verse
@@ -57,13 +48,6 @@ Capo II
 	so i walked her home and she misread the facial expressions of mine
 	that's why the whole relationship is build upon a lie
 	the whole relationship is build upon a lie
-
-## Chorus
-
-	....
-	A7
-	and I am all innocent
-
 
 ## Bridge
 
@@ -97,3 +81,6 @@ Capo II
 	C G D G
  	the whole relationship is build upon a lie
 	...
+
+	C  G  D  Em
+	Am Em H7 E (!)
