@@ -58,7 +58,7 @@
 ## Verse
 
 	what that you say? you don't like being stalked?
-	then why didn't you say so beforehand?
+	didn't know that you had special needs
 	
 	simply click here and then scroll down a bit
 	browse to that section that no one ever reads
@@ -66,6 +66,6 @@
 ## Pre-Chorus
 
 	Oh yes, i've put my mind on you
-	so what's it that you're gonna do?
+	so what's it that you are gonna do?
 	
 ## Intro
