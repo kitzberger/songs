@@ -16,10 +16,10 @@
 
 ## Pre-Chorus
 
-	F D7 G
+	F D7 G G
 	Oh yes i've put my mind on you
 
-	D# F Bb F
+	D# F Bb (F)
 	and i know exactly what you do
 
 ## Chorus
@@ -43,7 +43,7 @@
 	do you remember that time you called in sick
 	and spend 5 days in vienna with that girl
 
-	maybe your boss still doesn't have a clue
+	maybe your superior still doesn't have a clue
 	and didn't see those pictures on your feed
 
 ## Pre-Chorus
