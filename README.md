@@ -4,9 +4,14 @@
 
 * [Clear The Line](Clear%20The%20Line.md)
 * [Let Us Go Dancing](Let%20Us%20Go%20Dancing.md)
+* [The Solution](The%20Solution.md)
+
+## New songs (2018-2019)
+
 * [Little Did I Know](Little%20Did%20I%20Know.md)
 * [Nazi Neighbor](Nazi%20Neighbor.md)
-* [The Solution](The%20Solution.md)
+* [Procrastination.md](Procrastination.md)
+* [The Greatest Kisser](The%20Greatest%20Kisser.md)
 
 ## Watch The Basil Die (2017)
 
@@ -22,6 +27,7 @@ Listen to the [EP](http://www.differentpaul.de/musik) now!
 
 * [Count Me In](Count%20Me%20In.md)
 * [Blame Us](Blame%20Us.md)
+* [My Dearest Anabelle](My%20Dearest%20Anabelle.md)
 * [Nothing But A Line](Nothing%20But%20A%20Line.md)
 * [Who Knows](Who%20Knows.md)
 

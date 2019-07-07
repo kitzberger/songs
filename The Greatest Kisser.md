@@ -51,11 +51,8 @@ Capo II
 
 ## Bridge
 
-	C  G  D  Em
-	Am Em H7 Em
-
-	C  G  D  Em
-	Am Em H7
+	C  G  D  Em Am Em H7 Em
+	C  G  D  Em Am Em H7
 
 	Am Am D D
 	who would have thought - that suppressing a yawn
@@ -65,6 +62,7 @@ Capo II
 	the most
 
 ## Chorus
+
 	so it's not really been my fault
 	...
 
@@ -79,8 +77,9 @@ Capo II
 ## Outro
 
 	C G D G
- 	the whole relationship is build upon a lie
+	the whole relationship is build upon a lie
 	...
 
-	C  G  D  Em
-	Am Em H7 E (!)
+	C  G  D  Em Am Em H7 Em
+	C  G  D  Em Am Em H7
+	Em
