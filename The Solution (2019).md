@@ -1,22 +1,49 @@
-# The Solution
+# The Solution 2019
 
-## Intro
-	Am Em
-	you know these online dating sites?
-	F Am G Em
-	where people must have found the key to anyones heart
+## Verse Chords
+
+ C        G/H      Am9      Em/G
+|--------|--------|--------|---------|
+|---8----|---8----|---5----|---5-----|
+|-7---7-0|-7---7-0|-4---4-0|-4---4-0-|
+|--------|--------|--------|---------|
+|--------|--------|--------|---------|
+|8-8-8-8-|7-7-7-7-|5-5-5-5-|3-3-3-3--|
+
+ F/A      G        C    /Bb F/A
+|--------|--------|--------|--------|
+|---6---6|---3----|---9---9|---6---6|
+|-5---5--|-4---4-0|-7---7--|-5---5--|
+|--------|--------|--------|--------|
+|--------|--------|--------|--------|
+|5-5-5-5-|3-3-3-3-|8-8-6-6-|5-5-5-5-|
+
+ E/G#     Am7      D/F#     D7       G
+|--------|--------|--------|--------|--------|
+|---5----|---3----|---3----|---1----|---3----|
+|-4------|-5------|-2------|-2------|-0------|
+|--------|--------|--------|--------|--------|
+|--------|--------|--------|--------|--------|
+|4-4-4-4-|5-5-5-5-|2-2-2-2-|2-2-2-2-|3-3-3-3-|
+
 
 ## Pre verse
-	Am
-	i've got an idea, boss
-	Em
-	please hear me out
-	F
-	i found the solution
-	C
-	to love distribution
-	G
-	it's a piece of code
+
+	Am Em
+	hey boss please hears us out
+	F Fsus2
+	we've cracked the code of love
+	Am Em
+	here's a first prototype
+	G/H Em Am F
+	matching your heart to compatibles
+
+	Am G/H Am
+
+## Intermezzo
+
+	C  G  Am Em
+	F  G  C	
 
 ## Verse 1
 	C               G                  Am        Em
@@ -32,7 +59,7 @@
 	we need to test it first
 	fix all the bugs
 	before we deploy
-	and maybe destroy
+	and accidently destroy
 	any hearts out there
 
 ## Verse 2
@@ -40,11 +67,6 @@
 	i call the shareholders - oh, they are gonna love us
 	when they hear their investment's paying off
 	we're selling love
-
-## Solo
-
-	F C G Am
-	F C G G
 
 ## Pre verse
 	i'm really sorry, boss
@@ -59,10 +81,10 @@
 	to make people believe we'll get them laid
 	and they're gonna pay
 
-## Chorus
+## Outro (Gospel style)
 	        C            F        C
 	imagine everyone was able to find
-              G                            C
+	      G                            C
 	true love and not just hook-ups online
 
 	F C G Am
@@ -78,27 +100,3 @@
 	                Dm          Bb           C
 	we've got your soul mate already figured out
 
-----
-
-## Bridge
-	Fm C
-	It's gonna be
-	the next big thing onlineeee
-
-	Fm     G#             Cm             Bb
-	   so get this out before it is too late
-
-
-## Chorus (variant II)
-
-        Dm                     C
-	  imagine everyone was able to find
-              Bb                                 F
-	their one true love and all they had to do
-            Dm                         C
-	is signing up and let the algorithms do the rest
-             Bb                             F
-	no awkward first dates anymore for you
-
-	                Dm          Bb           C
-	we've got your soul mate already figured out

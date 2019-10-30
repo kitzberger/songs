@@ -5,6 +5,8 @@
 * [Clear The Line](Clear%20The%20Line.md)
 * [Let Us Go Dancing](Let%20Us%20Go%20Dancing.md)
 * [The Solution](The%20Solution.md)
+* [The Solution (2019)](The%20Solution%20%282019%29.md)
+* [Pidgeonhole](Pidgeonhole.md)
 
 ## New songs (2018-2019)
 
