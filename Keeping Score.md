@@ -44,11 +44,11 @@ Capo 4
 	
 ## Refrain
 
-	C C D D/F#
+	C C D D
 	who am i to say i'm better than you
 	G G C C
 	who are you to say it's you
-	Am Am D D/F#
+	Am Am D D
 	for all we know it's much more complicated
 	G G C
 	none of us just owns the truth
@@ -57,9 +57,22 @@ Capo 4
 
 ## Verse 3
 
+	of course i've watched that brand new show
+	they can't stop talking 'bout on the web
+	though it took me some time to get every line
+	in that mumbled dialect
+
+	no, i can't stay for movie night
+	i don't watch no overdubs
+	the voices so fake - they - for christ's sake
+	cause me to throw up
+
 ## Refrain
 
 ## Intermezzo
 
-	who am i, who am i, (who)
-	who am i to you
+	who is right, who is right,
+	who is right, are you?
+
+	who is right, who is right,
+	is it me or you?
