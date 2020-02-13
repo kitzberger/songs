@@ -58,7 +58,7 @@ Capo 4
 ## Verse 3
 
 	of course i've watched that brand new show
-	they can't stop talking 'bout on the web
+	all the fuzz is about on the web
 	though it took me some time to get every line
 	in that mumbled dialect
 
