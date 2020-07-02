@@ -42,32 +42,37 @@ Am7/C Fsus2 G     G
 
 ## Verse
 
-	it's weird when after years of education based on facts
+	at some point i stopped asking about the wonders of the world
+	juvenile ignorance for sure
+	but you reached out and asked if i might find some time to spare
+	and explain the world wide web to you
+
+	i probably said something like it is just the dopest thing
+	a little like a library, you know?
+	and you can stay in touch with your beloved family
+	in case one day they choose to live abroad
+
+## Chorus
+
+## Verse
+
+	my whole generation benefits from what you've built
+	still we're struggling with filling your shoes
+	how come there is nowadays fact alternatives
+	and mainstream media vs. fake news
+
+	it's tough when after years of being convinced there's common sense
 	you find the world has seemingly gone mad
-	surely there's always been a room for different views
-	but honestly it never felt this bad
+	every other week on the front pages one can read
+	of another shooting and black body bags
 	
 ## Chorus
 
 	so you don't follow the news reports lately
 	that's OK - you must've heard it all before
-	the facists of the past - back in the parliaments
+	the demons of the past - back in the parliaments
 	and they behave as if they've never heard of war
 	stupid agitations, mean and loud
 	kinda relieved you're slowly zoning out
 
 ## Intermezzo / Outro
-
-
-
-
-----
-
-## Chorus
-
-	so you mistrust our commitment lately
-	no you're not a burden not at all
-	please rest assured your secret recipe
-	it's safe with me - no, i won't ever tell a soul
-	especially not that old hag from next door
-	yes i remember we hate her to the core

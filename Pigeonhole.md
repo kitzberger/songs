@@ -55,32 +55,19 @@ Capo 0
 
 	oh i have tried to pull you out again
 	but you fight hard as you did back then
-	who is it that you are or
+	who is it you are or
 	want to be?
 
 ## Solo II (fast)
 
 142 bpm
 
-## Bridge (instrumental)
-
-	Bb Bb F F
-	Cm D Gm Gm
-
-## Bridge
-
-	Bb Bb F F
-	Just give me a reason to start breaking down those walls
-	Cm D
-	I cannot be the bad guy any-
-
-	Bb Bb F F
-	Just give me a reason to start breaking down those walls
-	Cm D
-	I cannot be the bad guy anymore
-
 ## Intermezzo
 
 100 bpm
 
 ## Verse
+
+## Chorus
+
+## Solo III
