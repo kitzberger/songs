@@ -54,12 +54,19 @@ Am7/C Fsus2 G     G
 
 ## Chorus
 
-## Verse
+## Bridge Instrumental
+
+	D°-Riff
+	Cm G# Fm G(m)
+	
+## Bridge Verse
 
 	my whole generation benefits from what you've built
 	still we're struggling with filling your shoes
 	how come there is nowadays fact alternatives
 	and mainstream media vs. fake news
+
+## Verse
 
 	it's tough when after years of being convinced there's common sense
 	you find the world has seemingly gone mad
