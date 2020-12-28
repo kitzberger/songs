@@ -9,7 +9,7 @@ Capo 0
 	                                        D
 	for sure i'm not the one who's ending them
 	when i was 12 years old, riding home right after school
-	this ten year old kid punched my in the face
+	this ten year old kid punched me in the face
 
 ### Chorus 1
 
