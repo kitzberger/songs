@@ -47,7 +47,7 @@ Am7/C Fsus2 G     G
 	but you reached out and asked if i might find some time to spare
 	and explain the world wide web to you
 
-	i probably said something like it is just the dopest thing
+	oh, i probably said something like it is just the dopest thing
 	a little like a library, you know?
 	and you can stay in touch with your beloved family
 	in case one day they choose to live abroad

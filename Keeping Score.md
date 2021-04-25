@@ -1,6 +1,6 @@
 # Keeping Score
 
-Capo 4
+Capo 2
 
 ## Intro
 
@@ -64,15 +64,26 @@ Capo 4
 
 	no, i can't stay for movie night
 	i don't watch no overdubs
+	D D
 	the voices so fake - they - for christ's sake
+	D C
 	cause me to throw up
 
-## Refrain
+## Bridge
 
-## Intermezzo
+	Em F C G
+	Em F C G
 
-	who is right, who is right,
-	who is right, are you?
+## Verse 4
 
-	who is right, who is right,
-	is it me or you?
+	alright, I'll stay - let's talk about
+	what we would like to eat
+	I'm fine with everything you say
+	unless it's based on meat
+	
+	and while we're on that subject, i would
+	like to share with you
+	some insights about CO2 and
+	every little thing that you do
+	
+## Chorus
