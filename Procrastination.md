@@ -24,15 +24,15 @@ Capo II
 
 	such a simple task of brewing me my morning coffee
 	with just a little milk and not too strong
-	
+
 ## Pre-Chorus
-	
+
 	E4 Dm
 	G D4 E4 F
 
 	i'd like to think of myself as a team player
 	but still I walked away when it said run the cleanup now
-	
+
 ## Chorus
 
 ## Verse 2
@@ -42,7 +42,7 @@ Capo II
 
 	and rushing down the corridor I passed that cute intern
 	i got confused and asked her for the way
-	
+
 	'please don't let me be like him when i am in my 30ies'
 	it hurt hearing her saying that as I turned away
 
@@ -50,7 +50,7 @@ Capo II
 
 	i do hope assisting helpless collegues makes her feels a bit
 	as if she's working for one of those NGO
-	
+
 ## Chorus
 
 ## Verse 3
