@@ -1,6 +1,6 @@
 # Ordinary Year
 
-Capo III
+Capo 2 (Mandola)
 
 ## Intro
 
@@ -13,13 +13,13 @@ Capo III
 	Tomorrow I'll start planning
 	as if there's no pandemic
 	and this was just an ordinary year
-	
+
 	Might even send out save the dates
 	coz that's the way you do it
 	when you're about to reach out for the stars
-	
+
 ## Chorus
-	
+
 	Am     Dm                Bb       F
 	    I hope you guys can manage
 	       Gm                 F              C       C7
@@ -28,20 +28,19 @@ Capo III
 	    I vaguely do remember
 	       Gm               F              C
 	    we used to say someday we will go back
-	
 
 ## Verse
-   
+
 	No worries if you're rusty
 	we all feel out of practice
 	but you will receive instructions in advance
-	
+
 	I expect you to be fluent
 	in ancient greeting rituals
 	such as shaking hands like it's still 2019
-	
+
 ## Chorus
-	
+
 	Am     Dm                Bb       F
 	    I hope you guys can manage
 	       Gm                 F              C       C7
