@@ -1,14 +1,15 @@
 # Ordinary Year
 
+Capo 7 (Gitarre)
 Capo 2 (Mandola)
 
 ## Intro
 
-	F C Bb
+	C G F
 
 ## Verse
 
-	F C Bb F Bb A6b
+	C G F C F C D7 G4 G
 
 	Tomorrow I'll start planning
 	as if there's no pandemic
@@ -20,13 +21,13 @@ Capo 2 (Mandola)
 
 ## Chorus
 
-	Am     Dm                Bb       F
+	Em     Am                F        C
 	    I hope you guys can manage
-	       Gm                 F              C       C7
+	       Dm                 C              G       G7
 	 it's way too long since we have spoken last
-	Am     Dm           Bb       F
+	Em     Am           F        C
 	    I vaguely do remember
-	       Gm               F              C
+	       Dm               C              G
 	    we used to say someday we will go back
 
 ## Verse
