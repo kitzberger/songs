@@ -1,7 +1,7 @@
 # Ordinary Year
 
-Capo 7 (Gitarre)
-Capo 2 (Mandola)
+* Capo 7 (Gitarre)
+* Capo 2 (Mandola)
 
 ## Intro
 
@@ -18,6 +18,10 @@ Capo 2 (Mandola)
 	Might even send out save the dates
 	coz that's the way you do it
 	when you're about to reach out for the stars
+
+## Intermezzo
+
+	C G F
 
 ## Chorus
 
@@ -42,21 +46,36 @@ Capo 2 (Mandola)
 
 ## Chorus
 
-	Am     Dm                Bb       F
+	Em     Am                F        C
 	    I hope you guys can manage
-	       Gm                 F              C       C7
-	 it's way too long since we have been outside
-	Am     Dm           Bb       F
+	       Dm                 C              G       G7
+	 it's way too long since we have spoken last
+	Em     Am           F        C
 	    I vaguely do remember
-	       Gm                  F                C
-	    your stupid face and what's it looking like
-	
+	       Dm               C              G
+	    we used to say someday we will go back
+
 ## Verse
 
 	At first it may feel funny
 	and there might be situations
 	when you wish someone else would choose for you
-	
+
 	i guess that going vegan
 	could simplify that matter
 	in restaurants only one choice left for you
+
+## Chorus
+
+	Em     Am                F        C
+	    I hope you guys can manage
+	       Dm                 C              G       G7
+	 it's way too long since we have been outside
+	Em     Am           F        C
+	    I vaguely do remember
+	       Dm                  C                G
+	    your stupid face and what's it looking like
+
+## Outro
+
+	C G F
