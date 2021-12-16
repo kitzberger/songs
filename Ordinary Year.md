@@ -23,17 +23,6 @@
 
 	C G F
 
-## Chorus
-
-	Em     Am                F        C
-	    I hope you guys can manage
-	       Dm                 C              G       G7
-	 it's way too long since we have spoken last
-	Em     Am           F        C
-	    I vaguely do remember
-	       Dm               C              G
-	    we used to say someday we will go back
-
 ## Verse
 
 	No worries if you're rusty
@@ -54,6 +43,8 @@
 	    I vaguely do remember
 	       Dm               C              G
 	    we used to say someday we will go back
+
+## Verse (instrumental)
 
 ## Verse
 
