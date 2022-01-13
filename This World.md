@@ -40,6 +40,11 @@ Capo 2
 	A A7 D D7
 	guess they do believe in fairies too
 
+	the ones that slash the top tax rate
+	that actually could've changed our fate
+	can't believe that's still an issue
+
+
 ## Verse 3
 
 	somehow we tend to harm the ones we love the most
@@ -47,22 +52,16 @@ Capo 2
 	the dodo which was last seen 4 hundred years ago
 	but then some genius shot the very last
 
-	Bm F#m G A
 	I'm sure they didn't know their number was that low
-	D A Em Em
 	and killing just one more could mean extinction
-	A A7 D
 	and an afterlife - in cartoons
 
 ## Chorus 2+3
 
-	Gmaj7 D
 	and maybe if I dare to say
-	B7 E7
 	they're better off extinct today
-	A A7 D D7
 	who knows what MacDonalds would've done
 
-	Oh, if they'd gotten hold of one
-	turned them into a breeding farm
+	if they had gotten hold of one
+	they would've turned all cross-breed farm
 	sold their round behinds for 1,99
