@@ -2,8 +2,8 @@
 
 ## WIP
 
-* [Kisses In A Cafe.md](Kisses%20In%20A%20Cafe.md)
-* [This World.md](This%20World.md)
+* [Kisses In A Cafe](Kisses%20In%20A%20Cafe.md)
+* [This World](This%20World.md)
 
 ## Watch The Basil Die (2017)
 
@@ -19,16 +19,16 @@ Listen to the [EP](http://www.differentpaul.de/musik) now!
 
 ### 2020-2022
 
-* [Ordinary Year.md](Ordinary%20Year.md)
+* [Ordinary Year](Ordinary%20Year.md)
 * [Pigeonhole](Pigeonhole.md)
-* [Quoi Exactement.md](Quoi%20Exactement.md)
-* [Details.md](Details.md)
+* [Quoi Exactement](Quoi%20Exactement.md)
+* [Details](Details.md)
 
 ### 2018-2019
 
 * [Little Did I Know](Little%20Did%20I%20Know.md)
 * [Nazi Neighbor](Nazi%20Neighbor.md)
-* [Procrastination.md](Procrastination.md)
+* [Procrastination](Procrastination.md)
 * [The Greatest Kisser](The%20Greatest%20Kisser.md)
 
 ### 2013-2017
