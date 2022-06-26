@@ -5,7 +5,17 @@
 * [Kisses In A Cafe.md](Kisses%20In%20A%20Cafe.md)
 * [This World.md](This%20World.md)
 
-## New songs
+## Watch The Basil Die (2017)
+
+Listen to the [EP](http://www.differentpaul.de/musik) now!
+
+* [Bar Fights](Bar%20Fights.md)
+* [Book Of Rules](Book%20Of%20Rules.md)
+* [Mailing List](Mailing%20List.md)
+* [Some People](Some%20People.md)
+* [Watch The Basil Die](Watch%20The%20Basil%20Die.md)
+
+## Other songs
 
 ### 2020-2022
 
@@ -20,17 +30,7 @@
 * [Procrastination.md](Procrastination.md)
 * [The Greatest Kisser](The%20Greatest%20Kisser.md)
 
-## Watch The Basil Die (2017)
-
-Listen to the [EP](http://www.differentpaul.de/musik) now!
-
-* [Bar Fights](Bar%20Fights.md)
-* [Book Of Rules](Book%20Of%20Rules.md)
-* [Mailing List](Mailing%20List.md)
-* [Some People](Some%20People.md)
-* [Watch The Basil Die](Watch%20The%20Basil%20Die.md)
-
-## Other Songs (2013-2017)
+### 2013-2017
 
 * [Count Me In](Count%20Me%20In.md)
 * [Blame Us](Blame%20Us.md)
@@ -38,7 +38,7 @@ Listen to the [EP](http://www.differentpaul.de/musik) now!
 * [Nothing But A Line](Nothing%20But%20A%20Line.md)
 * [Who Knows](Who%20Knows.md)
 
-## Songs beyond EOL (2012-2015)
+### 2012-2015 (Songs beyond EOL)
 
 * [Not Exactly Sober](Not%20Exactly%20Sober.md)
 * [That's Not My Fault](Thats%20Not%20My%20Fault.md)
