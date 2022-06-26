@@ -2,13 +2,18 @@
 
 ## WIP
 
-* [Clear The Line](Clear%20The%20Line.md)
-* [Let Us Go Dancing](Let%20Us%20Go%20Dancing.md)
-* [The Solution](The%20Solution.md)
-* [The Solution (2019)](The%20Solution%20%282019%29.md)
-* [Pigeonhole](Pigeonhole.md)
+* [Kisses In A Cafe.md](Kisses%20In%20A%20Cafe.md)
+* [This World.md](This%20World.md)
 
-## New songs (2018-2019)
+## New songs
+
+### 2020-2022
+
+* [Ordinary Year.md](Ordinary%20Year.md)
+* [Pigeonhole](Pigeonhole.md)
+* [Quoi Exactement.md](Quoi%20Exactement.md)
+
+### 2018-2019
 
 * [Little Did I Know](Little%20Did%20I%20Know.md)
 * [Nazi Neighbor](Nazi%20Neighbor.md)
@@ -39,3 +44,9 @@ Listen to the [EP](http://www.differentpaul.de/musik) now!
 * [That's Not My Fault](Thats%20Not%20My%20Fault.md)
 * [What We Should Totally Do](What%20We%20Should%20Totally%20Do.md)
 
+## Songs that never made it in the first place
+
+* [Clear The Line](Clear%20The%20Line.md)
+* [Let Us Go Dancing](Let%20Us%20Go%20Dancing.md)
+* [The Solution](The%20Solution.md)
+* [The Solution (2019)](The%20Solution%20%282019%29.md)
