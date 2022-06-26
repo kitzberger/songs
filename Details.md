@@ -57,9 +57,11 @@ Am7/C Fsus2 G     G
 ## Bridge Instrumental
 
 	D°-Riff
-	Cm G# Fm G(m)
-	
+	Cm G# Fm Gm
+
 ## Bridge Verse
+
+	Cm G# Fm Gm
 
 	my whole generation benefits from what you've built
 	still we're struggling with filling your shoes
@@ -72,7 +74,7 @@ Am7/C Fsus2 G     G
 	you find the world has seemingly gone mad
 	every other week on the front pages one can read
 	of another shooting and black body bags
-	
+
 ## Chorus
 
 	so you don't follow the news reports lately
