@@ -22,6 +22,7 @@ Listen to the [EP](http://www.differentpaul.de/musik) now!
 * [Ordinary Year.md](Ordinary%20Year.md)
 * [Pigeonhole](Pigeonhole.md)
 * [Quoi Exactement.md](Quoi%20Exactement.md)
+* [Details.md](Details.md)
 
 ### 2018-2019
 
