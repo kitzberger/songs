@@ -41,7 +41,13 @@ Listen to the [EP](http://www.differentpaul.de/musik) now!
 
 ### 2012-2015 (Songs beyond EOL)
 
+* [1800](1800.md)
+* [Birthday Cake](Birthday%20Cake.md)
+* [Digging You](Digging%20You.md)
+* [Don't Hesitate](Dont%20Hesitate.md)
+* [Election Day](Election%20Day.md)
 * [Not Exactly Sober](Not%20Exactly%20Sober.md)
+* [Parttime Boytoy](Parttime%20Boytoy.md)
 * [That's Not My Fault](Thats%20Not%20My%20Fault.md)
 * [What We Should Totally Do](What%20We%20Should%20Totally%20Do.md)
 
