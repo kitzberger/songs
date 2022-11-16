@@ -59,7 +59,7 @@ je ne comprends pas - pourquoi tu te moques de moi?
 j'aime le goût mais pas devenir paf
 
 Une moitié de vin blanc et une d'eau gazeuse
-C'est le mélange de l'été, pour rester hydraté.
+ce mélange d'été, est approprié
 ```
 
 ## Solo Accordion
