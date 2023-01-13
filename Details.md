@@ -4,8 +4,8 @@ Capo IV
 
 ## Intro
 
-Am    Em    F     C
-Am7/C Fsus2 G     G
+	Am    Em    F     C
+	Am7/C Fsus2 G     G
 
 ## Verse
 
@@ -56,7 +56,7 @@ Am7/C Fsus2 G     G
 
 ## Bridge Instrumental
 
-	D°-Riff
+	D°
 	Cm G# Fm Gm
 
 ## Bridge Verse
