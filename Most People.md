@@ -3,10 +3,10 @@
 ## Intro
 
 ```
-|---------------------------
-|---------------------------
-|-6^7----9-6-----4----4--2------------
-|----6-------9-----7-----------
+|------------------------------|
+|------------------------------|
+|-6^7----9-6-----4----4--2-----|
+|----6-------9-----7-----------|
 
   A      G#m    F#m    E
 |-0------0------0------0-------|
@@ -15,7 +15,7 @@
 |-6------4------2------1-------|
 ```
 
-## Verse
+## Verse 1
 
 ```
 A G#m F#m E
@@ -27,7 +27,7 @@ and now you're stuck - stuck with me
 
 ## Instrumental
 
-## Verse
+## Verse 2
 
 ```
 It came to me as a surprise
@@ -45,8 +45,7 @@ never had it crossed my mind
 that you might feel the same way that i do
 ```
 
-## Verse
-
+## Verse 3
 ```
 the way your eyes had locked with mine
 it's been excluding - everybody else
