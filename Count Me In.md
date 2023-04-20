@@ -31,8 +31,8 @@ Capo IV
 
 ### Chorus
 
-	      F     C G       Am    G       C
-	just count me in - i won't let you down
+	             F     C G       Am    G       C
+	but you can count me in - i won't let you down
 	      F     C G       Am    G       C
 	just count me in - i won't let you down
 
@@ -42,8 +42,8 @@ Capo IV
 
 ### Verse 3
 
-	if one would eat rabbit only, so you often blabber
-	one died pretty fast due to lack of nutrient matter
+	if your diet's rabbit only, so you often blabber
+	you'd die pretty fast due to lack of nutrient matter
 	i googled your statement - which started a fight
 	you despise me when i'm being right
 
