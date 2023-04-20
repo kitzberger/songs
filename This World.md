@@ -44,7 +44,6 @@ Capo 2
 	that actually could've changed our fate
 	can't believe that's still an issue
 
-
 ## Verse 3
 
 	somehow we tend to harm the ones we love the most
@@ -56,7 +55,7 @@ Capo 2
 	and killing just one more could mean extinction
 	and an afterlife - in cartoons
 
-## Chorus 2+3
+## Chorus 2
 
 	and maybe if I dare to say
 	they're better off extinct today
@@ -65,3 +64,7 @@ Capo 2
 	if they had gotten hold of one
 	they would've gone all cross-breed farm
 	and sold their round behinds for 1,99
+	
+## Solo
+	
+## Chorus 3

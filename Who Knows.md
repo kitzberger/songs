@@ -24,7 +24,7 @@ Capo V
 
 	F                        C
 	  well, it's not always been that way
-	    G             F            C 
+	    G             F            C
 	i know them from long before that
 
 	i assure you they'd been pretty cool
@@ -48,11 +48,11 @@ Capo V
 
 	F                        C
 	  well, it's not always been that way
-	     G          F              C 
+	     G          F              C
 	they used to be alright back then
 	        F              C
 	i guess if they're all acting weird now
-		   G                  F          C 
+		   G                  F          C
 	then it's you who messed them up pretty bad
 
 ### Verse 5
@@ -67,8 +67,8 @@ he'll tell you and you might be amused
 
 	F                        C
 	  well, it's not always been that way
-	     G            F         C 
-	they used to be pretty kick ass 
+	     G            F         C
+	they used to be pretty kick ass
 	        F              C
 	i guess if they're all acting weird now
 		   G             F            C
