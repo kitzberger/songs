@@ -11,7 +11,7 @@ Capo II
 
 	the places that you've been to seem to slowly fade away
 	the stories you once told are long gone
-	i remember well this little song you taught us kids
+	tis well that I remember this song you taught us kids
 	not to worry when we're feeling all alone
 
 ## Intermezzo
