@@ -10,7 +10,7 @@
 	I'm sitting here coz i got nowhere else to be
 	feel free to join me if you please
 	Then we'd be two just sitting in the shade
-	no one else could blame us if we die
+	and could happily nod off under these trees
 
 ### Pre Chorus
 
@@ -31,8 +31,8 @@
 
 	i'm glad you're here in this with me together
 	since you're one of the few i really trust
-	do you remember when we only were something around eighteen
-	and we couldn't get a ride to the next town
+	do you remember the times we were sixteen years of age
+	and couldn't hitch a ride to the next town
 
 ### Pre Chorus
 
@@ -77,7 +77,7 @@
 	D
 	to do the same now
 
-	we're expecting each of us
+	we're expecting each other
 	to walk right thru the door
 	and i'm calling you
 	any day now
