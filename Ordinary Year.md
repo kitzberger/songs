@@ -64,8 +64,8 @@
 	 it's way too long since we have been outside
 	Em     Am           F        C
 	    I vaguely do remember
-	       Dm                  C                G
-	    your stupid face and what's it looking like
+	       Dm               C              G
+	    we used to say someday we will go back
 
 ## Outro
 
