@@ -13,7 +13,7 @@
 	C G
 	i'm sitting in my garden
 	F C/G
-	and watch the basil die
+	watching the basil die
 	F Dm G
 	the one that you gave me last week
 
