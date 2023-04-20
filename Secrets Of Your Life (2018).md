@@ -43,8 +43,8 @@
 	do you remember that time you called in sick
 	and spend 5 days in vienna with that girl
 
-	maybe your superior still doesn't have a clue
-	and didn't see those pictures on your feed
+	maybe your boss still doesn't have a clue
+	and didn't see those pictures on your wall
 
 ## Pre-Chorus
 
@@ -57,15 +57,15 @@
 
 ## Verse
 
-	what that you say? you don't like being stalked?
-	didn't know that you had special needs
+	what's that you say? you don't like being stalked?
+	oh, I didn't know you had special needs
 	
 	simply click here and then scroll down a bit
-	browse to that section that no one ever reads
+	right to that section that no one ever reads
 	
 ## Pre-Chorus
 
 	Oh yes, i've put my mind on you
-	so what's it that you are gonna do?
+	so what's it that you're gonna do?
 	
-## Intro
+## Chorus
