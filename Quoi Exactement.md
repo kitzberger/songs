@@ -2,9 +2,9 @@
 
 170-180 bpm.
 
-## Solo Mandolin
+**Solo 1**
 
-## Verse Fromage
+## Verse "Fromage"
 
 	       Gm                   Gm
 	c'est quoi exactement - ce que tu m'as donné
@@ -20,14 +20,12 @@
 		  D#               D
 	cette couleur, ça me fait peur
 
-## Solo Accordion
+**Solo 2**
 
-	Cm                         Gm
 	tu es sûre que je ne vais pas en mourir
-		D#               D
 	cette odeur, ça me fait peur
 
-## Verse Bise
+## Verse "Bise"
 
 	je sais ce sont deux fois - à gauche et puis à droite
 	l'instruction n'est pas trop compliquée
@@ -37,12 +35,12 @@
 	pour quelqu'un habitué à la poignée de main
 	cette proximité est exagérée
 
-## Solo Mandolin
+**Solo 3**
 
 	pour quelqu'un habitué à la poignée de main
 	je fais la bise, à ma guise
 
-## Verse Vin gazeux
+## Verse "Vin Gazeux"
 
 	c'est pas du tout sympa - de se moquer de moi
 	il fait très chaud d'où ma grande soif
@@ -51,5 +49,6 @@
 
 	Une moitié de vin blanc et une d'eau gazeuse
 	ce mélange d'été, est approprié
+	ce mélange d'été, est approprié
+	ce mélange d'été, est approprié
 
-## Solo Accordion

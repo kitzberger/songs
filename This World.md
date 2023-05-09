@@ -6,7 +6,7 @@ Capo 2
 
 	D/F# Em7/G
 	you came into this world all alone
-	D/F# A7/F#
+	D/F# A7
 	you were naked and you didn't speak a word
 
 	surely you've had your suspicions from the start
@@ -64,7 +64,7 @@ Capo 2
 	if they had gotten hold of one
 	they would've gone all cross-breed farm
 	and sold their round behinds for 1,99
-	
+
 ## Solo
-	
+
 ## Chorus 3

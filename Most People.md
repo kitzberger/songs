@@ -51,5 +51,5 @@ I give in the second that you came along
 the way your eyes had locked with mine
 it's been excluding - everybody else
 could not have cared less if i tried
-and those freckles - did not exactly help
+and those laugh lines - did not exactly help
 ```

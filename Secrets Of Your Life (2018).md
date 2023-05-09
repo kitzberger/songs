@@ -30,9 +30,9 @@
 	all of you think of
 	and all that you feel
 
-	i know all your secrets
-	the darkests of all
-	i'd never expose them
+	i know your darkest
+	the secrets of all
+	but i'd never expose them
 	if you tell me more
 
 ## Intro
@@ -65,6 +65,6 @@
 ## Pre-Chorus
 
 	Oh yes, i've put my mind on you
-	so what's it that you're gonna do?
+	so what's it you are gonna do?
 
 ## Chorus
