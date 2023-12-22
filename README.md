@@ -2,8 +2,25 @@
 
 ## WIP
 
-* [Kisses In A Cafe](Kisses%20In%20A%20Cafe.md)
+* [And Five Years](And%20Five%20Years.md)
+* [Monstertrucks](Monstertrucks.md)
+
+## Minor Details In A Major Key (2024)
+
 * [This World](This%20World.md)
+* [Ordinary Year](Ordinary%20Year.md)
+* [Details](Details.md)
+* [Count Me In](Count%20Me%20In.md)
+* [Quoi Exactement](Quoi%20Exactement.md)
+* [Kisses In A Cafe](Kisses%20In%20A%20Cafe.md)
+* [Secrets](Secrets.md)
+* [Watch The Basil Die](Watch%20The%20Basil%20Die.md)
+
+## Lockdown Sessions (2022)
+
+* [Ordinary Year](Ordinary%20Year.md)
+* [Quoi Exactement](Quoi%20Exactement.md)
+* [Nazi Neighbor](Nazi%20Neighbor.md)
 
 ## Watch The Basil Die (2017)
 
@@ -19,15 +36,11 @@ Listen to the [EP](http://www.differentpaul.de/musik) now!
 
 ### 2020-2022
 
-* [Ordinary Year](Ordinary%20Year.md)
 * [Pigeonhole](Pigeonhole.md)
-* [Quoi Exactement](Quoi%20Exactement.md)
-* [Details](Details.md)
 
 ### 2018-2019
 
 * [Little Did I Know](Little%20Did%20I%20Know.md)
-* [Nazi Neighbor](Nazi%20Neighbor.md)
 * [Procrastination](Procrastination.md)
 * [The Greatest Kisser](The%20Greatest%20Kisser.md)
 
