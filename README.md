@@ -12,8 +12,8 @@
 * [Details](Details.md)
 * [Count Me In](Count%20Me%20In.md)
 * [Quoi Exactement](Quoi%20Exactement.md)
-* [Kisses In A Cafe](Kisses%20In%20A%20Cafe.md)
 * [Secrets](Secrets.md)
+* [Kisses In A Cafe](Kisses%20In%20A%20Cafe.md)
 * [Watch The Basil Die](Watch%20The%20Basil%20Die.md)
 
 ## Lockdown Sessions (2022)
