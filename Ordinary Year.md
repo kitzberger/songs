@@ -59,11 +59,11 @@ Em     Am           F        C
 ## Verse
 
 ```
-At first it may feel funny
+At first it might feel funny
 and there might be situations
 when you wish someone else would choose for you
 
-i guess that going vegan
+I guess that going vegan
 could simplify that matter
 in restaurants only one choice left for you
 ```
