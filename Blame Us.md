@@ -9,7 +9,7 @@
 
 	I'm sitting here coz i got nowhere else to be
 	feel free to join me if you please
-	Then we'd be two just sitting in the shade
+	we would be the two sitting in the shade
 	don't blame me for nodding off under these trees
 
 ### Pre Chorus
