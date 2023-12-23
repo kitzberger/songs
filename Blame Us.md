@@ -10,12 +10,12 @@
 	I'm sitting here coz i got nowhere else to be
 	feel free to join me if you please
 	Then we'd be two just sitting in the shade
-	and could happily nod off under these trees
+	don't blame me for nodding off under these trees
 
 ### Pre Chorus
 
 	E   E   Am  Am
-	still i hope that we don't die, there's so much more to see,
+	oh i hope that we don't die, there's so much more to see,
 	G   G   D   D
 	if we did this'd be one shitty afternoon
 
@@ -75,7 +75,7 @@
 	C G
 	and you're expecting me
 	D
-	to do the same now
+	to do the very same
 
 	we're expecting each other
 	to walk right thru the door
