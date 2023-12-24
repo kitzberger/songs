@@ -31,8 +31,8 @@
 
 	i'm glad you're here in this with me together
 	since you're one of the few i really trust
-	do you remember the times we were sixteen years of age
-	and couldn't hitch a ride to the next town
+	do you recall the times we were sixteen years of age
+	and failed to hitch a ride to the next town
 
 ### Pre Chorus
 
