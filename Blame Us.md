@@ -15,9 +15,9 @@
 ### Pre Chorus
 
 	E   E   Am  Am
-	oh i hope that we don't die, there's so much more to see,
+	oh i hope this never fades, there's so much we could be,
 	G   G   D   D
-	if we did this'd be one shitty afternoon
+	if it did this'd be one empty memory
 
 ### Chorus
 	   C              H7
@@ -29,7 +29,7 @@
 
 ### Verse
 
-	i'm glad you're here in this with me together
+	i'm glad it's you in this with me together
 	since you're one of the few i really trust
 	do you recall the times we were sixteen years of age
 	and failed to hitch a ride to the next town
