@@ -70,5 +70,5 @@ Capo VI
 
 	these rules are not just made up, they're written in stone
 	some people say you won the game of throwns
-	and when you ask if anyone woudl like wine or grappa
+	and when you ask if anyone would like wine or grappa
 	we only respond with - ja, papa
