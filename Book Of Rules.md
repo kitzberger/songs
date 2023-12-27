@@ -20,15 +20,15 @@ Capo VI
 	in their right mind would do, no, that's why i don't even try 
 	to talk back to you coz after all you're right
 
-### Chorus
+### Chorus 1
 
-	                 F            C            G
+	                 C            G            D
 	these rules are not just made up, they're totally real 
-	         F            C                 G 
+	         C            G                 D 
 	they're not just made up, they are the biggest deal 
-	         F            C             G 
+	         C            G             D 
 	they're not just made up, it's our destiny 
-	    F          C                G 
+	    C          G                D 
 	without these rules it's almost anarchy
 
 ### Verse 3
@@ -45,13 +45,30 @@ Capo VI
 	there's a test that we put up and every one that's coming late 
 	had to take an extra class so they won't misbehave 
 
-### Chorus
+### Chorus 2
 
-	         F            C            G 
-	they're not just made up, they're totally cool 
-	         F            C                     G 
-	they're not just made up, i think they're chick magnets too 
-	         F            C                   G 
-	they're not just made up. rules help control the fun 
-	          F          C                  G 
-	but one step out of line, you pull the nerf gun 
+	they're not just made up, they're totally cool
+	they're not just made up, i think they're chick magnets too
+	they're not just made up. rules help control the fun
+	but one step out of line, you pull the nerf gun
+
+### Verse 5
+
+	oh, wait, there's more stuff that is simply not allowed
+	one is counting score in card games - out loud
+	the other one speaking to you with default leveled voice
+	at concerts where your earplugs filter noize
+ 
+### Verse 6
+
+	even though it feels like tyranny, you care for all your guests
+	you only rule with an iron fist coz you want our best – so if 
+	someone tonite thinks doctor who's a star wars remake
+	please have merci, it's a wookie mistake
+
+### Chorus 3
+
+	these rules are not just made up, they're written in stone
+	some people say you won the game of throwns
+	and when you ask if anyone woudl like wine or grappa
+	we only respond with - ja, papa
