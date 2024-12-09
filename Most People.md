@@ -1,33 +1,6 @@
 # Most People
 
-## Intro
-
-```
-|------------------------------|
-|------------------------------|
-|-6^7----9-6-----4----4--2-----|
-|----6-------9-----7-----------|
-
-  A      G#m    F#m    E
-|-0------0------0------0-------|
-|-0------0------0------0-------|
-|-7------6------4------2-------|
-|-6------4------2------1-------|
-```
-
 ## Verse 1
-
-```
-A G#m F#m E
-It came to me as a surprise
-and to be honest I would've chosen differently
-there's plenty fish in the sea
-and now you're stuck - stuck with me
-```
-
-## Instrumental
-
-## Verse 2
 
 ```
 It came to me as a surprise
@@ -40,16 +13,55 @@ you're not most people - lucky me
 
 ```
 Had been sitting on my own
-I convinced myself that is what I want
-never had it crossed my mind
-I give in the second that you came along
+I convinced myself that's what I want
+it just never crossed my mind
+I'd give in the second you would come along
 ```
 
-## Verse 3
+## Verse 2
 
 ```
-the way your eyes had locked with mine
+The way your eyes had locked with mine
 it's been excluding - everybody else
 could not have cared less if i tried
-and those laugh lines - did not exactly help
+and those laugh lines did not exactly help
 ```
+
+## Chorus
+
+## Verse 3 + 4
+
+```
+It's getting late, I dare to ask
+for your number but you just shake your head
+you smile and let me know that you
+don't have a phone - how cool is that?
+
+On local farms, so you found out
+they use more pesticides than allowed
+the way you're angry about that
+is so damn hot - kiss me now
+```
+
+## Chorus
+
+```
+Had been sitting on my own
+I convinced myself that's what I want
+it just never crossed my mind
+I'd give in the second you would come along
+```
+
+## Intermezzo
+
+## Bridge
+```
+A
+It came to me as a surprise
+and to be honest I would've chosen differently
+F#m
+there's plenty fish in the sea
+and yet you chose - to skinny dip with me
+```
+
+## Outro
