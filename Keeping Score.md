@@ -2,10 +2,10 @@
 
 Capo 2
 
-## Intro
+## Pre-Verse
 
 	G G C C
-	D D D G
+	D D G G
 
 ## Verse 1
 
@@ -23,12 +23,7 @@ Capo 2
 	but to make it worthwhile I open that file
 	and put a strike next to your name
 
-## Intermezzo
-
-	F C F C F C G
-	F C F C F C G
-	F C F C F C G
-	F C F C F C D
+## Pre-Verse
 
 ## Verse 2
 
@@ -42,7 +37,7 @@ Capo 2
 	and they're gonna track him and probably smack in
 	the side windows of his
 	
-## Refrain
+## Chorus
 
 	C C D D
 	who am i to say i'm better than you
@@ -53,7 +48,12 @@ Capo 2
 	G G C
 	none of us just owns the truth
 
-## Intermezzo
+## Post-Chorus
+
+	F C F C F C G
+	F C F C F C D
+	
+## Pre-Verse
 
 ## Verse 3
 
@@ -62,7 +62,9 @@ Capo 2
 	though it took me some time to get every line
 	in that mumbled dialect
 
+	G G
 	no, i can't stay for movie night
+	C C
 	i don't watch no overdubs
 	D D
 	the voices so fake - they - for christ's sake
@@ -87,3 +89,11 @@ Capo 2
 	every little thing that you do
 	
 ## Chorus
+
+## Post-Chorus
+
+## Pre-Verse
+
+	G G C C
+	D D G G
+	G6
