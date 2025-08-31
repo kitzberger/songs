@@ -2,28 +2,28 @@
 
 ### Intro
 
-	G   G   H7  H7
+	G   G   B7  B7
 	C   C   G   G
 
 ### Verse
 
 	I'm sitting here coz i got nowhere else to be
 	feel free to join me if you please
-	we would be the two sitting in the shade
-	don't blame me for nodding off under these trees
+	we would be them dudes sitting in the shade
+	and probably nod off under these trees
 
 ### Pre Chorus
 
 	E   E   Am  Am
-	oh i hope this never fades, there's so much we could be,
+	oh i hope we never die, there's so much more to see
 	G   G   D   D
-	if it did this'd be one empty memory
+	if we did this'd be one shitty afternoon
 
 ### Chorus
-	   C              H7
-	if i drop dead today
+	   C              B7
+	if we drop dead today
 	                      G
-	at least i'm free to say
+	our folks would have to say
 	      C           D               G
 	that no one ever saw this coming near
 
@@ -59,7 +59,7 @@
 
 ### Chorus
 
-	     C           H7
+	     C           B7
 	when i recall today
 	  E4    C       G
 	i only have to say
@@ -75,7 +75,7 @@
 	C G
 	and you're expecting me
 	D
-	to do the very same
+	to do the same thing
 
 	we're expecting each other
 	to walk right thru the door
