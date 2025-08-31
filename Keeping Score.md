@@ -1,6 +1,6 @@
 # Keeping Score
 
-Capo 2
+Capo 4
 
 ## Pre-Verse
 
@@ -36,7 +36,7 @@ Capo 2
 	to some cycling activists
 	and they're gonna track him and probably smack in
 	the side windows of his
-	
+
 ## Chorus
 
 	C C D D
@@ -52,7 +52,7 @@ Capo 2
 
 	F C F C F C G
 	F C F C F C D
-	
+
 ## Pre-Verse
 
 ## Verse 3
@@ -82,12 +82,12 @@ Capo 2
 	what we would like to eat
 	I'm fine with everything you say
 	unless it's based on meat
-	
+
 	and while we're on that subject, i would
 	like to share with you
 	some insights about CO2 and
 	every little thing that you do
-	
+
 ## Chorus
 
 ## Post-Chorus
