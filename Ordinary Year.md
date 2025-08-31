@@ -1,7 +1,6 @@
 # Ordinary Year
 
-* Capo 7 (Gitarre)
-* Capo 2 (Mandola)
+Capo 7
 
 ## Intro
 
