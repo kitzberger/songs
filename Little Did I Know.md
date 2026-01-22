@@ -59,8 +59,7 @@ Capo 4
 
 ## Bridge
 
-	C
- G
+	C G
 
 	D G
 	i'm sure you're so much more complex than this
