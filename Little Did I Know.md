@@ -59,7 +59,8 @@ Capo 4
 
 ## Bridge
 
-	G
+	C
+ G
 
 	D G
 	i'm sure you're so much more complex than this
@@ -69,7 +70,7 @@ Capo 4
 	Am C
 	but when i hear a kitten purr
 	Em D
-	when i see a ball of furr
+	when i see a ball of fur
 	C
 	i'm out
 
