@@ -1,5 +1,11 @@
 # Most People
 
+## Intro
+
+```
+D A G A
+```
+
 ## Verse 1
 
 ```
@@ -52,16 +58,15 @@ it just never crossed my mind
 I'd give in the second you would come along
 ```
 
-## Intermezzo
+## Instrumental
 
-## Bridge
 ```
-A
-It came to me as a surprise
-and to be honest I would've chosen differently
-F#m
-there's plenty fish in the sea
-and yet you chose - to skinny dip with me
+Hm A D G
 ```
 
 ## Outro
+
+```
+there's plenty fish in the sea
+and yet you chose - to skinny dip with me
+```
