@@ -4,18 +4,14 @@ Capo 4
 
 ## Pre-Verse
 
-	G G C C
-	D D G G
+	G G C C D D G G
 
 ## Verse 1
 
-	G G
+	G G C C D D D G
 	talking about our latest fight
-	C C
 	i am almost sure that i've won
-	D D
 	but then you remind me keeping score when fighting
-	D G
 	is childish and really dumb
 
 	of course you're right - I apologize
@@ -57,22 +53,16 @@ Capo 4
 
 ## Verse 3
 
-	G G
+	G G C C D D D G
 	of course i've watched that brand new show
-	C C
 	all the fuzz is about on the web
-	D D
 	though it took me some time to get every line
-	D G
 	in that mumbled dialect
 
-	G G
+	G G C C D D D C
 	no, i can't stay for movie night
-	C C
 	i don't watch no overdubs
-	D D
 	the voices so fake - they - for christ's sake
-	D C
 	cause me to throw up
 
 ## Bridge
@@ -82,13 +72,9 @@ Capo 4
 
 ## Verse 4
 
-	G G
 	alright, I'll stay - let's talk about
-	C C
 	what we would like to eat
-	D D
 	I'm fine with everything you say
-	D G
 	unless it's based on meat
 
 	and while we're on that subject, i would
@@ -102,6 +88,5 @@ Capo 4
 
 ## Pre-Verse
 
-	G G C C
-	D D G G
+	G G C C	D D G G
 	G6
