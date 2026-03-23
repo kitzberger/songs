@@ -58,18 +58,13 @@ Capo IV
 
 ### Bridge
 
-	Am C G G
+	Dm C G G
 
-	Am C G G
+	Dm C G G
 	oh when the would finally turns against you
 	and all the people you know
 	won't talk to you and start growling instead
-	Am G C
+	Dm G C C
 	i hope you remember then
 
 ### Chorus
-
-### Outro
-
-	Am C C C
-	Am G C

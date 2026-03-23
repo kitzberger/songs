@@ -2,6 +2,10 @@
 
 Capo 2
 
+## Intro
+	
+	D/F# Em7/G D/F# A7
+	
 ## Verse 1
 
 	D/F# Em7/G
@@ -44,6 +48,10 @@ Capo 2
 	that actually could've changed our fate
 	can't believe that's still an issue
 
+## Intermezzo
+	
+	D/F# Em7/G D/F# A7
+
 ## Verse 3
 
 	somehow we tend to harm the ones we love the most
@@ -66,5 +74,13 @@ Capo 2
 	and sold their round behinds for 1,99
 
 ## Solo
+
+	D/F# Em7/G D/F# A7
+	D/F# Em7/G D/F# A7
+	
+	Bm/A F#m/C# G6 Em7/G D/F# Em7/G
+	Bm/A F#m/C# G6 Em7/G D/F# Em7/G
+	
+	A A7 D D7
 
 ## Chorus 3

@@ -4,8 +4,7 @@ Capo IV
 
 ### Intro
 
-	C E7 A7 D7 G G7 C
-
+	C
 
 ### Verse 1
 
@@ -32,7 +31,6 @@ Capo IV
 	he seemed well educated and yet desperate for a way
 	of getting all his money out of there
 
-
 ### Chorus
 
 	F C G
@@ -57,8 +55,6 @@ Capo IV
 	oh shit i thought this might match
 	this sounds great but where is the catch?
 
-### Drum Break
-
 ### Solo
 
 * 2x Verse
@@ -79,7 +75,7 @@ Capo IV
 	i've got a friend from out of space
 	i just got scammed from outta space
 
-### Verse 5
+### Verse 5 (instrumental)
 
 * 3/4 beat
 
@@ -94,5 +90,5 @@ Capo IV
 
 	E7                           A7
 	   well guys that's gotta be it
-		       D7       G         C     (G C)
+		       D7       G         C     G C
 	that's planet zack and pieces of rick

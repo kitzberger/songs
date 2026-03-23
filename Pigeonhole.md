@@ -1,7 +1,6 @@
 # Pigeonhole
 
 Capo 0
-100 bpm
 
 ## Intro
 
@@ -42,7 +41,7 @@ Capo 0
 	the more you know, the less you guess
 	it's simple, just like that
 
-## Solo I
+## Intermezzo
 
 ## Verse
 
@@ -50,15 +49,5 @@ Capo 0
 	but you fight hard as you did back then
 	who is it you are or
 	want to be?
-
-## Solo II (fast)
-
-142 bpm
-
-## Intermezzo
-
-100 bpm
-
-## Verse
 
 ## Chorus

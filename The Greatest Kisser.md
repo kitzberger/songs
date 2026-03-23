@@ -1,10 +1,8 @@
 # The Greatest Kisser
 
-Capo II
-
 ## Verse
 
-	G                          C             A7                   D
+	G C A7 D
 	i met a girl - she's the greatest kisser - and she's kissing me
 	H7 Em D G
 	when she's out of town - i'm missing her - kissing me
@@ -58,13 +56,14 @@ Capo II
 	who would have thought - that suppressing a yawn
 	C C D D
 	it's the one thing - that is turning her on
+	Am Am D D
+	who would have thought - that suppressing a yawn
+	C C D D
+	it's the one thing - that is turning her on
 	G
 	the most
 
 ## Chorus
-
-	so it's not really been my fault
-	...
 
 ## Verse
 

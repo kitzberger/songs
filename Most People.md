@@ -9,6 +9,8 @@ D A G A
 ## Verse 1
 
 ```
+D A G A
+
 It came to me as a surprise
 and most people would probably agree
 but that's the thing about you
@@ -67,6 +69,9 @@ Hm A D G
 ## Outro
 
 ```
+Hm A D G
+Hm A D G
+Hm A G A D
 there's plenty fish in the sea
 and yet you chose - to skinny dip with me
 ```

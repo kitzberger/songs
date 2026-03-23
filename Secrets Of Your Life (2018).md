@@ -16,7 +16,7 @@
 
 ## Pre-Chorus
 
-	F D7 G G
+	F7 D7 G G
 	Oh yes i've put my mind on you
 	D# F Bb F
 	and i know exactly what you do

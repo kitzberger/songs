@@ -1,13 +1,14 @@
 # Lumpeks
 
-## Intro (instrumental verse)
+Capo 7
+
+## Intro (instrumental verse + chorus)
 
 ## Verse
 
-	D G Hm A
 	G C Em D
 
-	it's called lumpeks - when you walk around
+	it is called lumpeks - when you walk around
 	in fancy clothes that you've just found
 	in that 2nd hand market that's right next to your place
 
@@ -17,13 +18,12 @@
 
 ## Chorus
 
-	Hm A D G D A     Hm A D G A D
 	Em D G C G D     Em D G C D G
 
 	whoa oh oh - whoa-uh-oh-uh-ohhhh
 	whoa oh oh - whoa-uh-oh-uh-ohhhh
 
-## Solo
+## Intermezzo (instrumental verse)
 
 ## Verse
 
@@ -35,6 +35,22 @@
 	your webcam freezes and you give up tryin'
 	to reconnect and instead to it a day
 
+## Chorus
+
+	whoa oh oh ...
+
+## Intermezzo (instrumental verse + chorus)
+
+## Verse (with breaks in 2nd part)
+
+	it's a lifestyle of giving zero fucks
+	about highheel shoes or wearing a tux
+	how would you wanna climb that tree - if need be
+
+	poets and sculptors, painters and such
+	writers and singers and that's pretty much
+	everything that Lumpeks is about
+	
 ## Chorus
 
 	whoa oh oh ...

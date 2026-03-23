@@ -39,13 +39,13 @@ Capo 4
 
 ## Chorus
 
-	C C D D
+	C D
 	who am i to say i'm better than you
-	G G C C
+	G C
 	who are you to say it's you
-	Am Am D D
+	Am D
 	for all we know it's much more complicated
-	G G C
+	G C
 	none of us just owns the truth
 
 ## Post-Chorus
@@ -57,9 +57,13 @@ Capo 4
 
 ## Verse 3
 
+	G G
 	of course i've watched that brand new show
+	C C
 	all the fuzz is about on the web
+	D D
 	though it took me some time to get every line
+	D G
 	in that mumbled dialect
 
 	G G
@@ -78,9 +82,13 @@ Capo 4
 
 ## Verse 4
 
+	G G
 	alright, I'll stay - let's talk about
+	C C
 	what we would like to eat
+	D D
 	I'm fine with everything you say
+	D G
 	unless it's based on meat
 
 	and while we're on that subject, i would

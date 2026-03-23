@@ -56,7 +56,6 @@ Capo II
 
 ## Bridge Instrumental
 
-	D°
 	Cm G# Fm Gm
 
 ## Bridge Verse
@@ -83,5 +82,3 @@ Capo II
 	and they behave as if they've never heard of war
 	stupid agitations, mean and loud
 	kinda relieved you're slowly zoning out
-
-## Intermezzo / Outro

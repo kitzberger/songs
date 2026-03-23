@@ -1,87 +1,75 @@
 # Clear The Line
 
-Capo 0
+Capo 0 (Mandola)
+Capo 4-5 (Gitarre)
 
 ### Intro
 
-	D7
+```
+G7
+```
 
 ### Part A
 
-	G C
-	oh mickey, would you please clear the line, I need to take this call
-	A7 D7
-	it's the doctor and he's gonna save us all
-	oh if you don't hang up, we cannot start the show
-	it's been an hour baby and i'm still on hold
+```
+C F
+oh mickey, would you please clear the line, I need to take this call
+D7 G7
+it's the doctor and he's gonna save us all
+oh if you don't hang up, we cannot start the show
+it's been an hour baby and i'm still on hold
+```
 
 ### Part B
 
-	G A7 D7 G
-	In case of an emergency
-	time travel seems to me
-	like the fastest way to get from A to B // like a splendid way to get from A to B
+```
+C D7 G7 C
+In case of an emergency
+time travel seems to me
+like the fastest way to get from A to B
 
-	G A7 D7 G
-	In case you're facing cyber men
-	or dalek ships approach
-	you can rely on dual hearted support
+C D7 G7 C
+In case you're facing cyber men
+or dalek ships approach
+you can rely on dual hearted support
+```
 
 ### Part C
 
-	C5 C6
-	you don't seem too frustrated
-	G5 G6
-	'bout it going down
-	C5 C5
-	you don't seem too frustrated
-	D7
-	but i do-o
+```
+F5 F6
+you don't seem too frustrated
+C5 C6
+'bout it going down
+F5 F5
+you don't seem too frustrated
+G7
+but i do-o
+```
 
 ### Part A
 
-	so please clear the line ...
-
-----
-
-Capo II-IV
-
-### Intro
-
-	A7
-
-### Part A
-
-	D G
-	oh mickey, would you please clear the line, I need to take this call
-	E7 A7
-	it's the doctor and he's gonna save us all
-	oh if you don't hang up, we cannot start the show
-	it's been an hour baby and i'm still on hold
+```
+so please clear the line ...
+```
 
 ### Part B
 
-	D E7 A7 D
-	In case of an emergency
-	time travel seems to me
-	like the fastest way to get from A to B
+```
+you better keep an eye or two
+on that mysterious crack
+growing on your bedroom wall - that could be an attack
 
-	D E7 A7 D
-	In case you're facing cyber men
-	or dalek ships approach
-	you can rely on dual heart support
+the perfect toolbox - that's a fact
+is compact and rather small
+a screwdriver has got to be "sonic" above all
+```
 
 ### Part C
 
-	G5 G6
-	you don't seem too frustrated
-	D5 D6
-	'bout it going down
-	G5 G6
-	you don't seem too frustrated
-	A7
-	but i do-o
-
-### Part A
-
-	so please clear the line ...
+```
+and even if you're not quiet sure
+if that is an attack
+just to be on the safe side
+let's call captain jack
+```

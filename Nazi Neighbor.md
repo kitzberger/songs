@@ -2,7 +2,7 @@
 
 Capo 3
 
-### Chorus
+### Part A
 
 	D7sus4
 	                C               F
@@ -14,7 +14,7 @@ Capo 3
 	     F           C           G
 	the door in his face - au revoir?
 
-### Verse
+### Part B
 
 	         Am                        F           Em7                 G
 	let's assume he wants to put up a solar panel right on top of his roof
@@ -25,7 +25,7 @@ Capo 3
 	           F                        G                       C          (G)
 	but is it really worth saving the planet? feels now kinda gross.
 
-### Chorus
+### Part A
 
 	                C                  F
 	how would you choose if your nazi neighbor
@@ -36,7 +36,7 @@ Capo 3
 	        F                 C         G
 	man or would you think "what a cliché?"
 
-### Verse
+### Part B
 
 	well, i guess it's kind of rough being a racist all day, especially if you are into men
 	having to be tough, strong and hateful when all you think about is only big ben
@@ -52,25 +52,21 @@ Capo 3
 	     Em7                        G
 	not for the literal meaning instead?
 
-### Chorus
+### Part A
 
-	C F
 	what would you do if your nazi neighbor
-	G C
 	wants to enroll his kid at your day care
-	Am G F C
 	would you be highly alarmed and call 'the antifa moms'
-	F C G
 	a club just to bully such kids?
 
-### Verse
+### Part B
 
 	well, let's assume he named his kid mussolini but it shows great talent in arts
 	don't you think embrassing that innocent kid might prevent it from blackening his heart?
 	so would you invite them over for play dates and make sure that all the other kids will come too
 	you could then host a teeny-tiny bar mizwa even though you're not a jew
 
-### Outro (Chorus)
+### Outro (Part A)
 
 	C F
 	what would you do if your nazi neighbor
@@ -78,17 +74,9 @@ Capo 3
 	looked right into your turned off light saber
 	Am G F C
 	would you force-trigger it, causing his head to split
+	F C G
+	ok, that one's easy, I guess.
+	Am G F C
+	would you force-trigger it, causing his head to split
 	F G C
 	ok, that one's easy, I guess.
-
-----
-
-### Picking
-
-         1  2  3  4   1  2  3  4   1  2  3  4   1  2  3  4   1
-	|--3---3p0---|0-----------|------0-----|------1-----|-------------------
-	|---1-----1--|---1--------|---1----1--1|---1----1--1|------------------------
-	|-----2-----2|-----2------|--0------0--|--2------2--|---------------------
-	|0-----------|------------|-----2------|-----3------|-----------------------
-	|------------|------------|3-----------|------------|--------------------
-	|------------|------------|------------|1-----------|---------------------

@@ -1,26 +1,22 @@
 # Quoi Exactement
 
-170-180 bpm.
+## Intro
 
-**Solo 1**
+	Gm Gm D#° Gm
+	Gm Gm D#° Gm
+	Cm Gm D#  D
 
 ## Verse "Fromage"
 
-	       Gm                   Gm
 	c'est quoi exactement - ce que tu m'as donné
-	       D#°                   Gm
 	cette chose spongieuse que j'ai gôutée
-	       Gm                    Gm
 	c'est quoi exactement c'que tu m'as refilé
-	       D#°                   Gm
 	cette chose spongieuse que j'ai gôutée
 
-	Cm                         Gm
 	tu es sûre que je ne vais pas en mourir
-		  D#               D
 	cette couleur, ça me fait peur
 
-**Solo 2**
+## Intermezzo
 
 	tu es sûre que je ne vais pas en mourir
 	cette odeur, ça me fait peur
@@ -35,7 +31,7 @@
 	pour quelqu'un habitué à la poignée de main
 	cette proximité est exagérée
 
-**Solo 3**
+## Intermezzo
 
 	pour quelqu'un habitué à la poignée de main
 	je fais la bise, à ma guise

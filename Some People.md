@@ -67,4 +67,6 @@ Capo V
 
 ### Chorus
 
-### Outro (Intermezzo)
+### Intermezzo (Variant 2)
+
+### Chorus

@@ -20,22 +20,6 @@
 	it's close to impossible remaining focused on us
 	when instead we can witness first love
 
-## Verse 3
-
-	first base accomplished, well done - a recap of how we'd begun
-	we've had so many bases since then - and still we're facing the end
-
-	as I'm about to cry - something catches your eye
-	I swallow my pain and refrain
-
-## Verse 4
-
-	the posh lady having boiled egg - gets humped by a dog up her leg
-	i've read once that this is a thing - letting your dog blow off steam
-
-	it's close to impossible remaining focused on us
-	when instead we can witness canine love
-
 ## Mando Solo
 
 	  G           Em           Am          Dsus2
@@ -61,3 +45,21 @@
 	|-2/3--------------------|---------------2--------|
 	|------------------------|-----------------0------|
 	|------------------------|------------------------|
+
+## Verse 3
+
+	first base accomplished, well done - a recap of how we'd begun
+	we've had so many bases since then - and still we're facing the end
+
+	as I'm about to cry - something catches your eye
+	I swallow my pain and refrain
+
+## Piano Solo
+
+## Verse 4
+
+	the posh lady having boiled egg - gets humped by a dog up her leg
+	i've read once that this is a thing - letting your dog blow off steam
+
+	it's close to impossible remaining focused on us
+	when instead we can witness canine love
