@@ -1,7 +1,5 @@
 # Lumpeks
 
-Capo 7
-
 ## Intro (instrumental verse + chorus)
 
 ## Verse
