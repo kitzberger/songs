@@ -2,6 +2,8 @@
 
 Capo 3
 
+### Intro (instrumental)
+
 ```
 Dm  Dm   Dm   Dm
 Dm  Dm   C    C
@@ -9,8 +11,6 @@ Bb6 A7   Dm/F Bb
 Bb  Bb   Bb   F
 A7  Dm   Dm   x
 ```
-
-### Intro (instrumental)
 
 ### Verse 1 (guitar only)
 
