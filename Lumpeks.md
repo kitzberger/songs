@@ -16,9 +16,9 @@
 
 ## Chorus
 
-	Em D G C G D     Em D G C D G
-
+	Em D G C G D
 	whoa oh oh - whoa-uh-oh-uh-ohhhh
+	Em D G C D G
 	whoa oh oh - whoa-uh-oh-uh-ohhhh
 
 ## Intermezzo (instrumental verse)
